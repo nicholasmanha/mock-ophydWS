@@ -1,0 +1,7353 @@
+
+=== INITIALIZED DEVICES STATE ===
+Timestamp: 2025-07-22T14:00:41.803893
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "": {
+    "name": "",
+    "value": "",
+    "connected": false,
+    "locked": false,
+    "timestamp": 0,
+    "expanded": false,
+    "pv": "",
+    "read_access": false,
+    "write_access": false
+  },
+  "13SIM1:cam1:AsynIO.CNCT": {
+    "name": "13SIM1:cam1:AsynIO.CNCT",
+    "value": "",
+    "connected": false,
+    "locked": false,
+    "timestamp": 0,
+    "expanded": false,
+    "pv": "13SIM1:cam1:AsynIO.CNCT",
+    "read_access": false,
+    "write_access": false
+  },
+  "13SIM1:cam1:Manufacturer_RBV": {
+    "name": "13SIM1:cam1:Manufacturer_RBV",
+    "value": "",
+    "connected": false,
+    "locked": false,
+    "timestamp": 0,
+    "expanded": false,
+    "pv": "13SIM1:cam1:Manufacturer_RBV",
+    "read_access": false,
+    "write_access": false
+  },
+  "13SIM1:cam1:PortName_RBV": {
+    "name": "13SIM1:cam1:PortName_RBV",
+    "value": "",
+    "connected": false,
+    "locked": false,
+    "timestamp": 0,
+    "expanded": false,
+    "pv": "13SIM1:cam1:PortName_RBV",
+    "read_access": false,
+    "write_access": false
+  },
+  "13SIM1:cam1:Model_RBV": {
+    "name": "13SIM1:cam1:Model_RBV",
+    "value": "",
+    "connected": false,
+    "locked": false,
+    "timestamp": 0,
+    "expanded": false,
+    "pv": "13SIM1:cam1:Model_RBV",
+    "read_access": false,
+    "write_access": false
+  },
+  "13SIM1:cam1:SerialNumber_RBV": {
+    "name": "13SIM1:cam1:SerialNumber_RBV",
+    "value": "",
+    "connected": false,
+    "locked": false,
+    "timestamp": 0,
+    "expanded": false,
+    "pv": "13SIM1:cam1:SerialNumber_RBV",
+    "read_access": false,
+    "write_access": false
+  },
+  "13SIM1:cam1:FirmwareVersion_RBV": {
+    "name": "13SIM1:cam1:FirmwareVersion_RBV",
+    "value": "",
+    "connected": false,
+    "locked": false,
+    "timestamp": 0,
+    "expanded": false,
+    "pv": "13SIM1:cam1:FirmwareVersion_RBV",
+    "read_access": false,
+    "write_access": false
+  },
+  "13SIM1:cam1:SDKVersion_RBV": {
+    "name": "13SIM1:cam1:SDKVersion_RBV",
+    "value": "",
+    "connected": false,
+    "locked": false,
+    "timestamp": 0,
+    "expanded": false,
+    "pv": "13SIM1:cam1:SDKVersion_RBV",
+    "read_access": false,
+    "write_access": false
+  },
+  "13SIM1:cam1:DriverVersion_RBV": {
+    "name": "13SIM1:cam1:DriverVersion_RBV",
+    "value": "",
+    "connected": false,
+    "locked": false,
+    "timestamp": 0,
+    "expanded": false,
+    "pv": "13SIM1:cam1:DriverVersion_RBV",
+    "read_access": false,
+    "write_access": false
+  },
+  "13SIM1:cam1:ADCoreVersion_RBV": {
+    "name": "13SIM1:cam1:ADCoreVersion_RBV",
+    "value": "",
+    "connected": false,
+    "locked": false,
+    "timestamp": 0,
+    "expanded": false,
+    "pv": "13SIM1:cam1:ADCoreVersion_RBV",
+    "read_access": false,
+    "write_access": false
+  }
+}
+==================================================
+
+
+=== INITIALIZED DEVICES STATE ===
+Timestamp: 2025-07-22T14:00:41.823313
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "13SIM1:cam1:BinX": {
+    "name": "13SIM1:cam1:BinX",
+    "value": "",
+    "connected": false,
+    "locked": false,
+    "timestamp": 0,
+    "expanded": false,
+    "pv": "13SIM1:cam1:BinX",
+    "read_access": false,
+    "write_access": false
+  },
+  "13SIM1:cam1:BinY": {
+    "name": "13SIM1:cam1:BinY",
+    "value": "",
+    "connected": false,
+    "locked": false,
+    "timestamp": 0,
+    "expanded": false,
+    "pv": "13SIM1:cam1:BinY",
+    "read_access": false,
+    "write_access": false
+  },
+  "13SIM1:cam1:BinX_RBV": {
+    "name": "13SIM1:cam1:BinX_RBV",
+    "value": "",
+    "connected": false,
+    "locked": false,
+    "timestamp": 0,
+    "expanded": false,
+    "pv": "13SIM1:cam1:BinX_RBV",
+    "read_access": false,
+    "write_access": false
+  },
+  "13SIM1:cam1:BinY_RBV": {
+    "name": "13SIM1:cam1:BinY_RBV",
+    "value": "",
+    "connected": false,
+    "locked": false,
+    "timestamp": 0,
+    "expanded": false,
+    "pv": "13SIM1:cam1:BinY_RBV",
+    "read_access": false,
+    "write_access": false
+  },
+  "13SIM1:cam1:MinX_RBV": {
+    "name": "13SIM1:cam1:MinX_RBV",
+    "value": "",
+    "connected": false,
+    "locked": false,
+    "timestamp": 0,
+    "expanded": false,
+    "pv": "13SIM1:cam1:MinX_RBV",
+    "read_access": false,
+    "write_access": false
+  },
+  "13SIM1:cam1:MinX": {
+    "name": "13SIM1:cam1:MinX",
+    "value": "",
+    "connected": false,
+    "locked": false,
+    "timestamp": 0,
+    "expanded": false,
+    "pv": "13SIM1:cam1:MinX",
+    "read_access": false,
+    "write_access": false
+  },
+  "13SIM1:cam1:MinY": {
+    "name": "13SIM1:cam1:MinY",
+    "value": "",
+    "connected": false,
+    "locked": false,
+    "timestamp": 0,
+    "expanded": false,
+    "pv": "13SIM1:cam1:MinY",
+    "read_access": false,
+    "write_access": false
+  },
+  "13SIM1:cam1:MinY_RBV": {
+    "name": "13SIM1:cam1:MinY_RBV",
+    "value": "",
+    "connected": false,
+    "locked": false,
+    "timestamp": 0,
+    "expanded": false,
+    "pv": "13SIM1:cam1:MinY_RBV",
+    "read_access": false,
+    "write_access": false
+  },
+  "13SIM1:cam1:SizeX": {
+    "name": "13SIM1:cam1:SizeX",
+    "value": "",
+    "connected": false,
+    "locked": false,
+    "timestamp": 0,
+    "expanded": false,
+    "pv": "13SIM1:cam1:SizeX",
+    "read_access": false,
+    "write_access": false
+  },
+  "13SIM1:cam1:SizeY": {
+    "name": "13SIM1:cam1:SizeY",
+    "value": "",
+    "connected": false,
+    "locked": false,
+    "timestamp": 0,
+    "expanded": false,
+    "pv": "13SIM1:cam1:SizeY",
+    "read_access": false,
+    "write_access": false
+  },
+  "13SIM1:cam1:SizeX_RBV": {
+    "name": "13SIM1:cam1:SizeX_RBV",
+    "value": "",
+    "connected": false,
+    "locked": false,
+    "timestamp": 0,
+    "expanded": false,
+    "pv": "13SIM1:cam1:SizeX_RBV",
+    "read_access": false,
+    "write_access": false
+  },
+  "13SIM1:cam1:SizeY_RBV": {
+    "name": "13SIM1:cam1:SizeY_RBV",
+    "value": "",
+    "connected": false,
+    "locked": false,
+    "timestamp": 0,
+    "expanded": false,
+    "pv": "13SIM1:cam1:SizeY_RBV",
+    "read_access": false,
+    "write_access": false
+  },
+  "13SIM1:cam1:MaxSizeX_RBV": {
+    "name": "13SIM1:cam1:MaxSizeX_RBV",
+    "value": "",
+    "connected": false,
+    "locked": false,
+    "timestamp": 0,
+    "expanded": false,
+    "pv": "13SIM1:cam1:MaxSizeX_RBV",
+    "read_access": false,
+    "write_access": false
+  },
+  "13SIM1:cam1:MaxSizeY_RBV": {
+    "name": "13SIM1:cam1:MaxSizeY_RBV",
+    "value": "",
+    "connected": false,
+    "locked": false,
+    "timestamp": 0,
+    "expanded": false,
+    "pv": "13SIM1:cam1:MaxSizeY_RBV",
+    "read_access": false,
+    "write_access": false
+  },
+  "13SIM1:cam1:ArraySize_RBV": {
+    "name": "13SIM1:cam1:ArraySize_RBV",
+    "value": "",
+    "connected": false,
+    "locked": false,
+    "timestamp": 0,
+    "expanded": false,
+    "pv": "13SIM1:cam1:ArraySize_RBV",
+    "read_access": false,
+    "write_access": false
+  },
+  "13SIM1:cam1:Gain_RBV": {
+    "name": "13SIM1:cam1:Gain_RBV",
+    "value": "",
+    "connected": false,
+    "locked": false,
+    "timestamp": 0,
+    "expanded": false,
+    "pv": "13SIM1:cam1:Gain_RBV",
+    "read_access": false,
+    "write_access": false
+  },
+  "13SIM1:cam1:Gain": {
+    "name": "13SIM1:cam1:Gain",
+    "value": "",
+    "connected": false,
+    "locked": false,
+    "timestamp": 0,
+    "expanded": false,
+    "pv": "13SIM1:cam1:Gain",
+    "read_access": false,
+    "write_access": false
+  },
+  "13SIM1:cam1:DataType": {
+    "name": "13SIM1:cam1:DataType",
+    "value": "",
+    "connected": false,
+    "locked": false,
+    "timestamp": 0,
+    "expanded": false,
+    "pv": "13SIM1:cam1:DataType",
+    "read_access": false,
+    "write_access": false
+  },
+  "13SIM1:cam1:DataType_RBV": {
+    "name": "13SIM1:cam1:DataType_RBV",
+    "value": "",
+    "connected": false,
+    "locked": false,
+    "timestamp": 0,
+    "expanded": false,
+    "pv": "13SIM1:cam1:DataType_RBV",
+    "read_access": false,
+    "write_access": false
+  },
+  "13SIM1:cam1:ReverseX_RBV": {
+    "name": "13SIM1:cam1:ReverseX_RBV",
+    "value": "",
+    "connected": false,
+    "locked": false,
+    "timestamp": 0,
+    "expanded": false,
+    "pv": "13SIM1:cam1:ReverseX_RBV",
+    "read_access": false,
+    "write_access": false
+  },
+  "13SIM1:cam1:ReverseY_RBV": {
+    "name": "13SIM1:cam1:ReverseY_RBV",
+    "value": "",
+    "connected": false,
+    "locked": false,
+    "timestamp": 0,
+    "expanded": false,
+    "pv": "13SIM1:cam1:ReverseY_RBV",
+    "read_access": false,
+    "write_access": false
+  },
+  "13SIM1:cam1:ReverseX": {
+    "name": "13SIM1:cam1:ReverseX",
+    "value": "",
+    "connected": false,
+    "locked": false,
+    "timestamp": 0,
+    "expanded": false,
+    "pv": "13SIM1:cam1:ReverseX",
+    "read_access": false,
+    "write_access": false
+  },
+  "13SIM1:cam1:ReverseY": {
+    "name": "13SIM1:cam1:ReverseY",
+    "value": "",
+    "connected": false,
+    "locked": false,
+    "timestamp": 0,
+    "expanded": false,
+    "pv": "13SIM1:cam1:ReverseY",
+    "read_access": false,
+    "write_access": false
+  },
+  "13SIM1:cam1:ColorMode": {
+    "name": "13SIM1:cam1:ColorMode",
+    "value": "",
+    "connected": false,
+    "locked": false,
+    "timestamp": 0,
+    "expanded": false,
+    "pv": "13SIM1:cam1:ColorMode",
+    "read_access": false,
+    "write_access": false
+  },
+  "13SIM1:cam1:ColorMode_RBV": {
+    "name": "13SIM1:cam1:ColorMode_RBV",
+    "value": "",
+    "connected": false,
+    "locked": false,
+    "timestamp": 0,
+    "expanded": false,
+    "pv": "13SIM1:cam1:ColorMode_RBV",
+    "read_access": false,
+    "write_access": false
+  },
+  "13SIM1:cam1:ArraySizeX_RBV": {
+    "name": "13SIM1:cam1:ArraySizeX_RBV",
+    "value": "",
+    "connected": false,
+    "locked": false,
+    "timestamp": 0,
+    "expanded": false,
+    "pv": "13SIM1:cam1:ArraySizeX_RBV",
+    "read_access": false,
+    "write_access": false
+  },
+  "13SIM1:cam1:ArraySizeY_RBV": {
+    "name": "13SIM1:cam1:ArraySizeY_RBV",
+    "value": "",
+    "connected": false,
+    "locked": false,
+    "timestamp": 0,
+    "expanded": false,
+    "pv": "13SIM1:cam1:ArraySizeY_RBV",
+    "read_access": false,
+    "write_access": false
+  }
+}
+==================================================
+
+
+=== INITIALIZED DEVICES STATE ===
+Timestamp: 2025-07-22T14:00:41.829094
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "": {
+    "name": "",
+    "value": "",
+    "connected": false,
+    "locked": false,
+    "timestamp": 0,
+    "expanded": false,
+    "pv": "",
+    "read_access": false,
+    "write_access": false
+  }
+}
+==================================================
+
+
+=== INITIALIZED DEVICES STATE ===
+Timestamp: 2025-07-22T14:00:41.835998
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "13SIM1:cam1:PoolUsedBuffers": {
+    "name": "13SIM1:cam1:PoolUsedBuffers",
+    "value": "",
+    "connected": false,
+    "locked": false,
+    "timestamp": 0,
+    "expanded": false,
+    "pv": "13SIM1:cam1:PoolUsedBuffers",
+    "read_access": false,
+    "write_access": false
+  },
+  "13SIM1:cam1:PoolAllocBuffers": {
+    "name": "13SIM1:cam1:PoolAllocBuffers",
+    "value": "",
+    "connected": false,
+    "locked": false,
+    "timestamp": 0,
+    "expanded": false,
+    "pv": "13SIM1:cam1:PoolAllocBuffers",
+    "read_access": false,
+    "write_access": false
+  },
+  "13SIM1:cam1:PoolFreeBuffers": {
+    "name": "13SIM1:cam1:PoolFreeBuffers",
+    "value": "",
+    "connected": false,
+    "locked": false,
+    "timestamp": 0,
+    "expanded": false,
+    "pv": "13SIM1:cam1:PoolFreeBuffers",
+    "read_access": false,
+    "write_access": false
+  },
+  "13SIM1:cam1:PoolUsedMem.SCAN": {
+    "name": "13SIM1:cam1:PoolUsedMem.SCAN",
+    "value": "",
+    "connected": false,
+    "locked": false,
+    "timestamp": 0,
+    "expanded": false,
+    "pv": "13SIM1:cam1:PoolUsedMem.SCAN",
+    "read_access": false,
+    "write_access": false
+  },
+  "13SIM1:cam1:PoolMaxMem": {
+    "name": "13SIM1:cam1:PoolMaxMem",
+    "value": "",
+    "connected": false,
+    "locked": false,
+    "timestamp": 0,
+    "expanded": false,
+    "pv": "13SIM1:cam1:PoolMaxMem",
+    "read_access": false,
+    "write_access": false
+  },
+  "13SIM1:cam1:PoolUsedMem": {
+    "name": "13SIM1:cam1:PoolUsedMem",
+    "value": "",
+    "connected": false,
+    "locked": false,
+    "timestamp": 0,
+    "expanded": false,
+    "pv": "13SIM1:cam1:PoolUsedMem",
+    "read_access": false,
+    "write_access": false
+  },
+  "13SIM1:cam1:EmptyFreeList": {
+    "name": "13SIM1:cam1:EmptyFreeList",
+    "value": "",
+    "connected": false,
+    "locked": false,
+    "timestamp": 0,
+    "expanded": false,
+    "pv": "13SIM1:cam1:EmptyFreeList",
+    "read_access": false,
+    "write_access": false
+  }
+}
+==================================================
+
+
+=== INITIALIZED DEVICES STATE ===
+Timestamp: 2025-07-22T14:00:41.843925
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "13SIM1:cam1:AcquireTime": {
+    "name": "13SIM1:cam1:AcquireTime",
+    "value": "",
+    "connected": false,
+    "locked": false,
+    "timestamp": 0,
+    "expanded": false,
+    "pv": "13SIM1:cam1:AcquireTime",
+    "read_access": false,
+    "write_access": false
+  },
+  "13SIM1:cam1:AcquireTime_RBV": {
+    "name": "13SIM1:cam1:AcquireTime_RBV",
+    "value": "",
+    "connected": false,
+    "locked": false,
+    "timestamp": 0,
+    "expanded": false,
+    "pv": "13SIM1:cam1:AcquireTime_RBV",
+    "read_access": false,
+    "write_access": false
+  },
+  "13SIM1:cam1:AcquirePeriod": {
+    "name": "13SIM1:cam1:AcquirePeriod",
+    "value": "",
+    "connected": false,
+    "locked": false,
+    "timestamp": 0,
+    "expanded": false,
+    "pv": "13SIM1:cam1:AcquirePeriod",
+    "read_access": false,
+    "write_access": false
+  },
+  "13SIM1:cam1:AcquirePeriod_RBV": {
+    "name": "13SIM1:cam1:AcquirePeriod_RBV",
+    "value": "",
+    "connected": false,
+    "locked": false,
+    "timestamp": 0,
+    "expanded": false,
+    "pv": "13SIM1:cam1:AcquirePeriod_RBV",
+    "read_access": false,
+    "write_access": false
+  },
+  "13SIM1:cam1:NumImages": {
+    "name": "13SIM1:cam1:NumImages",
+    "value": "",
+    "connected": false,
+    "locked": false,
+    "timestamp": 0,
+    "expanded": false,
+    "pv": "13SIM1:cam1:NumImages",
+    "read_access": false,
+    "write_access": false
+  },
+  "13SIM1:cam1:NumImages_RBV": {
+    "name": "13SIM1:cam1:NumImages_RBV",
+    "value": "",
+    "connected": false,
+    "locked": false,
+    "timestamp": 0,
+    "expanded": false,
+    "pv": "13SIM1:cam1:NumImages_RBV",
+    "read_access": false,
+    "write_access": false
+  },
+  "13SIM1:cam1:NumImagesCounter_RBV": {
+    "name": "13SIM1:cam1:NumImagesCounter_RBV",
+    "value": "",
+    "connected": false,
+    "locked": false,
+    "timestamp": 0,
+    "expanded": false,
+    "pv": "13SIM1:cam1:NumImagesCounter_RBV",
+    "read_access": false,
+    "write_access": false
+  },
+  "13SIM1:cam1:NumExposures": {
+    "name": "13SIM1:cam1:NumExposures",
+    "value": "",
+    "connected": false,
+    "locked": false,
+    "timestamp": 0,
+    "expanded": false,
+    "pv": "13SIM1:cam1:NumExposures",
+    "read_access": false,
+    "write_access": false
+  },
+  "13SIM1:cam1:NumExposures_RBV": {
+    "name": "13SIM1:cam1:NumExposures_RBV",
+    "value": "",
+    "connected": false,
+    "locked": false,
+    "timestamp": 0,
+    "expanded": false,
+    "pv": "13SIM1:cam1:NumExposures_RBV",
+    "read_access": false,
+    "write_access": false
+  },
+  "13SIM1:cam1:Acquire": {
+    "name": "13SIM1:cam1:Acquire",
+    "value": "",
+    "connected": false,
+    "locked": false,
+    "timestamp": 0,
+    "expanded": false,
+    "pv": "13SIM1:cam1:Acquire",
+    "read_access": false,
+    "write_access": false
+  },
+  "13SIM1:cam1:ImageMode": {
+    "name": "13SIM1:cam1:ImageMode",
+    "value": "",
+    "connected": false,
+    "locked": false,
+    "timestamp": 0,
+    "expanded": false,
+    "pv": "13SIM1:cam1:ImageMode",
+    "read_access": false,
+    "write_access": false
+  },
+  "13SIM1:cam1:ImageMode_RBV": {
+    "name": "13SIM1:cam1:ImageMode_RBV",
+    "value": "",
+    "connected": false,
+    "locked": false,
+    "timestamp": 0,
+    "expanded": false,
+    "pv": "13SIM1:cam1:ImageMode_RBV",
+    "read_access": false,
+    "write_access": false
+  },
+  "13SIM1:cam1:DetectorState_RBV": {
+    "name": "13SIM1:cam1:DetectorState_RBV",
+    "value": "",
+    "connected": false,
+    "locked": false,
+    "timestamp": 0,
+    "expanded": false,
+    "pv": "13SIM1:cam1:DetectorState_RBV",
+    "read_access": false,
+    "write_access": false
+  },
+  "13SIM1:cam1:TimeRemaining_RBV": {
+    "name": "13SIM1:cam1:TimeRemaining_RBV",
+    "value": "",
+    "connected": false,
+    "locked": false,
+    "timestamp": 0,
+    "expanded": false,
+    "pv": "13SIM1:cam1:TimeRemaining_RBV",
+    "read_access": false,
+    "write_access": false
+  },
+  "13SIM1:cam1:ArrayCounter": {
+    "name": "13SIM1:cam1:ArrayCounter",
+    "value": "",
+    "connected": false,
+    "locked": false,
+    "timestamp": 0,
+    "expanded": false,
+    "pv": "13SIM1:cam1:ArrayCounter",
+    "read_access": false,
+    "write_access": false
+  },
+  "13SIM1:cam1:ArrayCounter_RBV": {
+    "name": "13SIM1:cam1:ArrayCounter_RBV",
+    "value": "",
+    "connected": false,
+    "locked": false,
+    "timestamp": 0,
+    "expanded": false,
+    "pv": "13SIM1:cam1:ArrayCounter_RBV",
+    "read_access": false,
+    "write_access": false
+  },
+  "13SIM1:cam1:ArrayRate_RBV": {
+    "name": "13SIM1:cam1:ArrayRate_RBV",
+    "value": "",
+    "connected": false,
+    "locked": false,
+    "timestamp": 0,
+    "expanded": false,
+    "pv": "13SIM1:cam1:ArrayRate_RBV",
+    "read_access": false,
+    "write_access": false
+  },
+  "13SIM1:cam1:ArrayCallbacks": {
+    "name": "13SIM1:cam1:ArrayCallbacks",
+    "value": "",
+    "connected": false,
+    "locked": false,
+    "timestamp": 0,
+    "expanded": false,
+    "pv": "13SIM1:cam1:ArrayCallbacks",
+    "read_access": false,
+    "write_access": false
+  },
+  "13SIM1:cam1:ArrayCallbacks_RBV": {
+    "name": "13SIM1:cam1:ArrayCallbacks_RBV",
+    "value": "",
+    "connected": false,
+    "locked": false,
+    "timestamp": 0,
+    "expanded": false,
+    "pv": "13SIM1:cam1:ArrayCallbacks_RBV",
+    "read_access": false,
+    "write_access": false
+  },
+  "13SIM1:cam1:StatusMessage_RBV": {
+    "name": "13SIM1:cam1:StatusMessage_RBV",
+    "value": "",
+    "connected": false,
+    "locked": false,
+    "timestamp": 0,
+    "expanded": false,
+    "pv": "13SIM1:cam1:StatusMessage_RBV",
+    "read_access": false,
+    "write_access": false
+  },
+  "13SIM1:cam1:NumQueuedArrays": {
+    "name": "13SIM1:cam1:NumQueuedArrays",
+    "value": "",
+    "connected": false,
+    "locked": false,
+    "timestamp": 0,
+    "expanded": false,
+    "pv": "13SIM1:cam1:NumQueuedArrays",
+    "read_access": false,
+    "write_access": false
+  },
+  "13SIM1:cam1:TriggerMode": {
+    "name": "13SIM1:cam1:TriggerMode",
+    "value": "",
+    "connected": false,
+    "locked": false,
+    "timestamp": 0,
+    "expanded": false,
+    "pv": "13SIM1:cam1:TriggerMode",
+    "read_access": false,
+    "write_access": false
+  },
+  "13SIM1:cam1:TriggerMode_RBV": {
+    "name": "13SIM1:cam1:TriggerMode_RBV",
+    "value": "",
+    "connected": false,
+    "locked": false,
+    "timestamp": 0,
+    "expanded": false,
+    "pv": "13SIM1:cam1:TriggerMode_RBV",
+    "read_access": false,
+    "write_access": false
+  },
+  "13SIM1:cam1:WaitForPlugins": {
+    "name": "13SIM1:cam1:WaitForPlugins",
+    "value": "",
+    "connected": false,
+    "locked": false,
+    "timestamp": 0,
+    "expanded": false,
+    "pv": "13SIM1:cam1:WaitForPlugins",
+    "read_access": false,
+    "write_access": false
+  },
+  "13SIM1:cam1:AcquireBusy": {
+    "name": "13SIM1:cam1:AcquireBusy",
+    "value": "",
+    "connected": false,
+    "locked": false,
+    "timestamp": 0,
+    "expanded": false,
+    "pv": "13SIM1:cam1:AcquireBusy",
+    "read_access": false,
+    "write_access": false
+  }
+}
+==================================================
+
+
+=== INITIALIZED DEVICES STATE ===
+Timestamp: 2025-07-22T14:00:41.845682
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "13SIM1:cam1:ShutterMode": {
+    "name": "13SIM1:cam1:ShutterMode",
+    "value": "",
+    "connected": false,
+    "locked": false,
+    "timestamp": 0,
+    "expanded": false,
+    "pv": "13SIM1:cam1:ShutterMode",
+    "read_access": false,
+    "write_access": false
+  },
+  "13SIM1:cam1:ShutterControl": {
+    "name": "13SIM1:cam1:ShutterControl",
+    "value": "",
+    "connected": false,
+    "locked": false,
+    "timestamp": 0,
+    "expanded": false,
+    "pv": "13SIM1:cam1:ShutterControl",
+    "read_access": false,
+    "write_access": false
+  },
+  "13SIM1:cam1:ShutterStatus_RBV": {
+    "name": "13SIM1:cam1:ShutterStatus_RBV",
+    "value": "",
+    "connected": false,
+    "locked": false,
+    "timestamp": 0,
+    "expanded": false,
+    "pv": "13SIM1:cam1:ShutterStatus_RBV",
+    "read_access": false,
+    "write_access": false
+  },
+  "13SIM1:cam1:ShutterOpenDelay": {
+    "name": "13SIM1:cam1:ShutterOpenDelay",
+    "value": "",
+    "connected": false,
+    "locked": false,
+    "timestamp": 0,
+    "expanded": false,
+    "pv": "13SIM1:cam1:ShutterOpenDelay",
+    "read_access": false,
+    "write_access": false
+  },
+  "13SIM1:cam1:ShutterCloseDelay": {
+    "name": "13SIM1:cam1:ShutterCloseDelay",
+    "value": "",
+    "connected": false,
+    "locked": false,
+    "timestamp": 0,
+    "expanded": false,
+    "pv": "13SIM1:cam1:ShutterCloseDelay",
+    "read_access": false,
+    "write_access": false
+  },
+  "": {
+    "name": "",
+    "value": "",
+    "connected": false,
+    "locked": false,
+    "timestamp": 0,
+    "expanded": false,
+    "pv": "",
+    "read_access": false,
+    "write_access": false
+  },
+  "13SIM1:cam1:ShutterStatusEPICS_RBV": {
+    "name": "13SIM1:cam1:ShutterStatusEPICS_RBV",
+    "value": "",
+    "connected": false,
+    "locked": false,
+    "timestamp": 0,
+    "expanded": false,
+    "pv": "13SIM1:cam1:ShutterStatusEPICS_RBV",
+    "read_access": false,
+    "write_access": false
+  }
+}
+==================================================
+
+
+=== INITIALIZED DEVICES STATE ===
+Timestamp: 2025-07-22T14:00:41.858110
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "13SIM1:cam1:NDAttributesFile": {
+    "name": "13SIM1:cam1:NDAttributesFile",
+    "value": "",
+    "connected": false,
+    "locked": false,
+    "timestamp": 0,
+    "expanded": false,
+    "pv": "13SIM1:cam1:NDAttributesFile",
+    "read_access": false,
+    "write_access": false
+  },
+  "13SIM1:cam1:NDAttributesMacros": {
+    "name": "13SIM1:cam1:NDAttributesMacros",
+    "value": "",
+    "connected": false,
+    "locked": false,
+    "timestamp": 0,
+    "expanded": false,
+    "pv": "13SIM1:cam1:NDAttributesMacros",
+    "read_access": false,
+    "write_access": false
+  },
+  "13SIM1:cam1:NDAttributesStatus": {
+    "name": "13SIM1:cam1:NDAttributesStatus",
+    "value": "",
+    "connected": false,
+    "locked": false,
+    "timestamp": 0,
+    "expanded": false,
+    "pv": "13SIM1:cam1:NDAttributesStatus",
+    "read_access": false,
+    "write_access": false
+  }
+}
+==================================================
+
+
+=== INITIALIZED DEVICES STATE ===
+Timestamp: 2025-07-22T14:00:41.865708
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "": {
+    "name": "",
+    "value": "",
+    "connected": false,
+    "locked": false,
+    "timestamp": 0,
+    "expanded": false,
+    "pv": "",
+    "read_access": false,
+    "write_access": false
+  }
+}
+==================================================
+
+
+=== OUTGOING SUBSCRIPTION REQUEST ===
+Timestamp: 2025-07-22T14:00:41.879199
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "action": "subscribe",
+  "pv": ""
+}
+==================================================
+
+
+=== OUTGOING SUBSCRIPTION REQUEST ===
+Timestamp: 2025-07-22T14:00:41.888961
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "action": "subscribe",
+  "pv": "13SIM1:cam1:AsynIO.CNCT"
+}
+==================================================
+
+
+=== OUTGOING SUBSCRIPTION REQUEST ===
+Timestamp: 2025-07-22T14:00:41.891679
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "action": "subscribe",
+  "pv": "13SIM1:cam1:AsynIO.CNCT"
+}
+==================================================
+
+
+=== OUTGOING SUBSCRIPTION REQUEST ===
+Timestamp: 2025-07-22T14:00:41.894509
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "action": "subscribe",
+  "pv": "13SIM1:cam1:Manufacturer_RBV"
+}
+==================================================
+
+
+=== OUTGOING SUBSCRIPTION REQUEST ===
+Timestamp: 2025-07-22T14:00:41.896154
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "action": "subscribe",
+  "pv": "13SIM1:cam1:PortName_RBV"
+}
+==================================================
+
+
+=== OUTGOING SUBSCRIPTION REQUEST ===
+Timestamp: 2025-07-22T14:00:41.910224
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "action": "subscribe",
+  "pv": "13SIM1:cam1:ShutterOpenDelay"
+}
+==================================================
+
+
+=== OUTGOING SUBSCRIPTION REQUEST ===
+Timestamp: 2025-07-22T14:00:41.922997
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "action": "subscribe",
+  "pv": "13SIM1:cam1:SerialNumber_RBV"
+}
+==================================================
+
+
+=== OUTGOING SUBSCRIPTION REQUEST ===
+Timestamp: 2025-07-22T14:00:41.924845
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "action": "subscribe",
+  "pv": ""
+}
+==================================================
+
+
+=== OUTGOING SUBSCRIPTION REQUEST ===
+Timestamp: 2025-07-22T14:00:41.931793
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "action": "subscribe",
+  "pv": "13SIM1:cam1:ShutterStatusEPICS_RBV"
+}
+==================================================
+
+
+=== OUTGOING SUBSCRIPTION REQUEST ===
+Timestamp: 2025-07-22T14:00:41.937301
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "action": "subscribe",
+  "pv": "13SIM1:cam1:NDAttributesFile"
+}
+==================================================
+
+
+=== OUTGOING SUBSCRIPTION REQUEST ===
+Timestamp: 2025-07-22T14:00:41.942652
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "action": "subscribe",
+  "pv": "13SIM1:cam1:NDAttributesMacros"
+}
+==================================================
+
+
+=== OUTGOING SUBSCRIPTION REQUEST ===
+Timestamp: 2025-07-22T14:00:41.945692
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "action": "subscribe",
+  "pv": "13SIM1:cam1:Model_RBV"
+}
+==================================================
+
+
+=== OUTGOING SUBSCRIPTION REQUEST ===
+Timestamp: 2025-07-22T14:00:41.950015
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "action": "subscribe",
+  "pv": "13SIM1:cam1:FirmwareVersion_RBV"
+}
+==================================================
+
+
+=== OUTGOING SUBSCRIPTION REQUEST ===
+Timestamp: 2025-07-22T14:00:41.968242
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "action": "subscribe",
+  "pv": "13SIM1:cam1:SDKVersion_RBV"
+}
+==================================================
+
+
+=== OUTGOING SUBSCRIPTION REQUEST ===
+Timestamp: 2025-07-22T14:00:41.974767
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "action": "subscribe",
+  "pv": "13SIM1:cam1:BinX_RBV"
+}
+==================================================
+
+
+=== OUTGOING SUBSCRIPTION REQUEST ===
+Timestamp: 2025-07-22T14:00:41.983626
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "action": "subscribe",
+  "pv": "13SIM1:cam1:DriverVersion_RBV"
+}
+==================================================
+
+
+=== OUTGOING SUBSCRIPTION REQUEST ===
+Timestamp: 2025-07-22T14:00:41.994029
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "action": "subscribe",
+  "pv": "13SIM1:cam1:ShutterMode"
+}
+==================================================
+
+
+=== OUTGOING SUBSCRIPTION REQUEST ===
+Timestamp: 2025-07-22T14:00:41.998103
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "action": "subscribe",
+  "pv": "13SIM1:cam1:ShutterControl"
+}
+==================================================
+
+
+=== OUTGOING SUBSCRIPTION REQUEST ===
+Timestamp: 2025-07-22T14:00:42.002008
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "action": "subscribe",
+  "pv": "13SIM1:cam1:NDAttributesStatus"
+}
+==================================================
+
+
+=== OUTGOING SUBSCRIPTION REQUEST ===
+Timestamp: 2025-07-22T14:00:42.015125
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "action": "subscribe",
+  "pv": "13SIM1:cam1:ADCoreVersion_RBV"
+}
+==================================================
+
+
+=== OUTGOING SUBSCRIPTION REQUEST ===
+Timestamp: 2025-07-22T14:00:42.017788
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "action": "subscribe",
+  "pv": "13SIM1:cam1:ShutterControl"
+}
+==================================================
+
+
+=== OUTGOING SUBSCRIPTION REQUEST ===
+Timestamp: 2025-07-22T14:00:42.022877
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "action": "subscribe",
+  "pv": "13SIM1:cam1:ShutterCloseDelay"
+}
+==================================================
+
+
+=== OUTGOING SUBSCRIPTION REQUEST ===
+Timestamp: 2025-07-22T14:00:42.021425
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "action": "subscribe",
+  "pv": "13SIM1:cam1:ShutterStatus_RBV"
+}
+==================================================
+
+
+=== OUTGOING SUBSCRIPTION REQUEST ===
+Timestamp: 2025-07-22T14:00:42.026252
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "action": "subscribe",
+  "pv": ""
+}
+==================================================
+
+
+=== OUTGOING SUBSCRIPTION REQUEST ===
+Timestamp: 2025-07-22T14:00:42.033419
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "action": "subscribe",
+  "pv": "13SIM1:cam1:MaxSizeX_RBV"
+}
+==================================================
+
+
+=== OUTGOING SUBSCRIPTION REQUEST ===
+Timestamp: 2025-07-22T14:00:42.051904
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "action": "subscribe",
+  "pv": "13SIM1:cam1:SizeX_RBV"
+}
+==================================================
+
+
+=== OUTGOING SUBSCRIPTION REQUEST ===
+Timestamp: 2025-07-22T14:00:42.055526
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "action": "subscribe",
+  "pv": "13SIM1:cam1:SizeY_RBV"
+}
+==================================================
+
+
+=== OUTGOING SUBSCRIPTION REQUEST ===
+Timestamp: 2025-07-22T14:00:42.047189
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "action": "subscribe",
+  "pv": "13SIM1:cam1:SizeX"
+}
+==================================================
+
+
+=== OUTGOING SUBSCRIPTION REQUEST ===
+Timestamp: 2025-07-22T14:00:42.058675
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "action": "subscribe",
+  "pv": "13SIM1:cam1:DataType_RBV"
+}
+==================================================
+
+
+=== OUTGOING SUBSCRIPTION REQUEST ===
+Timestamp: 2025-07-22T14:00:42.070711
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "action": "subscribe",
+  "pv": "13SIM1:cam1:BinX"
+}
+==================================================
+
+
+=== OUTGOING SUBSCRIPTION REQUEST ===
+Timestamp: 2025-07-22T14:00:42.081382
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "action": "subscribe",
+  "pv": "13SIM1:cam1:BinY"
+}
+==================================================
+
+
+=== OUTGOING SUBSCRIPTION REQUEST ===
+Timestamp: 2025-07-22T14:00:42.077317
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "action": "subscribe",
+  "pv": "13SIM1:cam1:MaxSizeY_RBV"
+}
+==================================================
+
+
+=== OUTGOING SUBSCRIPTION REQUEST ===
+Timestamp: 2025-07-22T14:00:42.086521
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "action": "subscribe",
+  "pv": "13SIM1:cam1:BinY_RBV"
+}
+==================================================
+
+
+=== OUTGOING SUBSCRIPTION REQUEST ===
+Timestamp: 2025-07-22T14:00:42.095010
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "action": "subscribe",
+  "pv": "13SIM1:cam1:Gain_RBV"
+}
+==================================================
+
+
+=== OUTGOING SUBSCRIPTION REQUEST ===
+Timestamp: 2025-07-22T14:00:42.112073
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "action": "subscribe",
+  "pv": "13SIM1:cam1:MinX_RBV"
+}
+==================================================
+
+
+=== OUTGOING SUBSCRIPTION REQUEST ===
+Timestamp: 2025-07-22T14:00:42.119589
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "action": "subscribe",
+  "pv": "13SIM1:cam1:DataType"
+}
+==================================================
+
+
+=== OUTGOING SUBSCRIPTION REQUEST ===
+Timestamp: 2025-07-22T14:00:42.126963
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "action": "subscribe",
+  "pv": "13SIM1:cam1:NumImages"
+}
+==================================================
+
+
+=== OUTGOING SUBSCRIPTION REQUEST ===
+Timestamp: 2025-07-22T14:00:42.121081
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "action": "subscribe",
+  "pv": "13SIM1:cam1:Acquire"
+}
+==================================================
+
+
+=== OUTGOING SUBSCRIPTION REQUEST ===
+Timestamp: 2025-07-22T14:00:42.138355
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "action": "subscribe",
+  "pv": "13SIM1:cam1:MinX"
+}
+==================================================
+
+
+=== OUTGOING SUBSCRIPTION REQUEST ===
+Timestamp: 2025-07-22T14:00:42.144912
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "action": "subscribe",
+  "pv": "13SIM1:cam1:MinY"
+}
+==================================================
+
+
+=== OUTGOING SUBSCRIPTION REQUEST ===
+Timestamp: 2025-07-22T14:00:42.148301
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "action": "subscribe",
+  "pv": "13SIM1:cam1:ColorMode_RBV"
+}
+==================================================
+
+
+=== OUTGOING SUBSCRIPTION REQUEST ===
+Timestamp: 2025-07-22T14:00:42.163335
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "action": "subscribe",
+  "pv": "13SIM1:cam1:ArrayCounter"
+}
+==================================================
+
+
+=== OUTGOING SUBSCRIPTION REQUEST ===
+Timestamp: 2025-07-22T14:00:42.168550
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "action": "subscribe",
+  "pv": "13SIM1:cam1:MinY_RBV"
+}
+==================================================
+
+
+=== OUTGOING SUBSCRIPTION REQUEST ===
+Timestamp: 2025-07-22T14:00:42.172619
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "action": "subscribe",
+  "pv": "13SIM1:cam1:TimeRemaining_RBV"
+}
+==================================================
+
+
+=== OUTGOING SUBSCRIPTION REQUEST ===
+Timestamp: 2025-07-22T14:00:42.182366
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "action": "subscribe",
+  "pv": "13SIM1:cam1:SizeY"
+}
+==================================================
+
+
+=== OUTGOING SUBSCRIPTION REQUEST ===
+Timestamp: 2025-07-22T14:00:42.185009
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "action": "subscribe",
+  "pv": "13SIM1:cam1:ArraySize_RBV"
+}
+==================================================
+
+
+=== OUTGOING SUBSCRIPTION REQUEST ===
+Timestamp: 2025-07-22T14:00:42.192659
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "action": "subscribe",
+  "pv": "13SIM1:cam1:PoolAllocBuffers"
+}
+==================================================
+
+
+=== OUTGOING SUBSCRIPTION REQUEST ===
+Timestamp: 2025-07-22T14:00:42.199001
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "action": "subscribe",
+  "pv": "13SIM1:cam1:DetectorState_RBV"
+}
+==================================================
+
+
+=== OUTGOING SUBSCRIPTION REQUEST ===
+Timestamp: 2025-07-22T14:00:42.200108
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "action": "subscribe",
+  "pv": "13SIM1:cam1:ArrayRate_RBV"
+}
+==================================================
+
+
+=== OUTGOING SUBSCRIPTION REQUEST ===
+Timestamp: 2025-07-22T14:00:42.210025
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "action": "subscribe",
+  "pv": "13SIM1:cam1:ArrayCallbacks_RBV"
+}
+==================================================
+
+
+=== OUTGOING SUBSCRIPTION REQUEST ===
+Timestamp: 2025-07-22T14:00:42.218001
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "action": "subscribe",
+  "pv": "13SIM1:cam1:ImageMode_RBV"
+}
+==================================================
+
+
+=== OUTGOING SUBSCRIPTION REQUEST ===
+Timestamp: 2025-07-22T14:00:42.212457
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "action": "subscribe",
+  "pv": "13SIM1:cam1:NumQueuedArrays"
+}
+==================================================
+
+
+=== OUTGOING SUBSCRIPTION REQUEST ===
+Timestamp: 2025-07-22T14:00:42.223958
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "action": "subscribe",
+  "pv": "13SIM1:cam1:PoolFreeBuffers"
+}
+==================================================
+
+
+=== OUTGOING SUBSCRIPTION REQUEST ===
+Timestamp: 2025-07-22T14:00:42.226654
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "action": "subscribe",
+  "pv": "13SIM1:cam1:AcquirePeriod"
+}
+==================================================
+
+
+=== OUTGOING SUBSCRIPTION REQUEST ===
+Timestamp: 2025-07-22T14:00:42.229876
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "action": "subscribe",
+  "pv": "13SIM1:cam1:PoolMaxMem"
+}
+==================================================
+
+
+=== OUTGOING SUBSCRIPTION REQUEST ===
+Timestamp: 2025-07-22T14:00:42.239201
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "action": "subscribe",
+  "pv": ""
+}
+==================================================
+
+
+=== OUTGOING SUBSCRIPTION REQUEST ===
+Timestamp: 2025-07-22T14:00:42.241574
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "action": "subscribe",
+  "pv": "13SIM1:cam1:ReverseX_RBV"
+}
+==================================================
+
+
+=== OUTGOING SUBSCRIPTION REQUEST ===
+Timestamp: 2025-07-22T14:00:42.247567
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "action": "subscribe",
+  "pv": "13SIM1:cam1:ReverseY"
+}
+==================================================
+
+
+=== OUTGOING SUBSCRIPTION REQUEST ===
+Timestamp: 2025-07-22T14:00:42.250581
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "action": "subscribe",
+  "pv": "13SIM1:cam1:ReverseY_RBV"
+}
+==================================================
+
+
+=== OUTGOING SUBSCRIPTION REQUEST ===
+Timestamp: 2025-07-22T14:00:42.254389
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "action": "subscribe",
+  "pv": "13SIM1:cam1:PoolUsedMem"
+}
+==================================================
+
+
+=== OUTGOING SUBSCRIPTION REQUEST ===
+Timestamp: 2025-07-22T14:00:42.257797
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "action": "subscribe",
+  "pv": "13SIM1:cam1:Gain"
+}
+==================================================
+
+
+=== OUTGOING SUBSCRIPTION REQUEST ===
+Timestamp: 2025-07-22T14:00:42.264155
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "action": "subscribe",
+  "pv": "13SIM1:cam1:NumImagesCounter_RBV"
+}
+==================================================
+
+
+=== OUTGOING SUBSCRIPTION REQUEST ===
+Timestamp: 2025-07-22T14:00:42.265132
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "action": "subscribe",
+  "pv": "13SIM1:cam1:ReverseX"
+}
+==================================================
+
+
+=== OUTGOING SUBSCRIPTION REQUEST ===
+Timestamp: 2025-07-22T14:00:42.272072
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "action": "subscribe",
+  "pv": "13SIM1:cam1:ImageMode"
+}
+==================================================
+
+
+=== OUTGOING SUBSCRIPTION REQUEST ===
+Timestamp: 2025-07-22T14:00:42.280352
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "action": "subscribe",
+  "pv": "13SIM1:cam1:ColorMode"
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.285561
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:FirmwareVersion_RBV",
+  "value": "No firmware",
+  "timestamp": 1753216173.508194,
+  "connected": true,
+  "read_access": true,
+  "write_access": true
+}
+==================================================
+
+
+=== OUTGOING SUBSCRIPTION REQUEST ===
+Timestamp: 2025-07-22T14:00:42.289357
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "action": "subscribe",
+  "pv": "13SIM1:cam1:ArraySizeX_RBV"
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.296578
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "connected": true,
+  "read_access": true,
+  "write_access": true,
+  "timestamp": 1753216173.508106,
+  "status": 0,
+  "severity": 0,
+  "precision": null,
+  "setpoint_timestamp": null,
+  "setpoint_status": null,
+  "setpoint_severity": null,
+  "lower_ctrl_limit": null,
+  "upper_ctrl_limit": null,
+  "units": null,
+  "enum_strs": null,
+  "setpoint_precision": null,
+  "sub_type": "meta",
+  "obj": "13SIM1:cam1:SDKVersion_RBV",
+  "pv": "13SIM1:cam1:SDKVersion_RBV"
+}
+==================================================
+
+
+=== OUTGOING SUBSCRIPTION REQUEST ===
+Timestamp: 2025-07-22T14:00:42.298577
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "action": "subscribe",
+  "pv": ""
+}
+==================================================
+
+
+=== OUTGOING SUBSCRIPTION REQUEST ===
+Timestamp: 2025-07-22T14:00:42.300089
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "action": "subscribe",
+  "pv": ""
+}
+==================================================
+
+
+=== PROCESSING META UPDATE ===
+Timestamp: 2025-07-22T14:00:42.307005
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:Manufacturer_RBV",
+  "update": {
+    "connected": true,
+    "read_access": true,
+    "write_access": true,
+    "timestamp": 1753216173.50802,
+    "status": 0,
+    "severity": 0,
+    "precision": null,
+    "setpoint_timestamp": null,
+    "setpoint_status": null,
+    "setpoint_severity": null,
+    "lower_ctrl_limit": null,
+    "upper_ctrl_limit": null,
+    "units": null,
+    "enum_strs": null,
+    "setpoint_precision": null,
+    "sub_type": "meta",
+    "obj": "13SIM1:cam1:Manufacturer_RBV",
+    "pv": "13SIM1:cam1:Manufacturer_RBV",
+    "min": null,
+    "max": null
+  }
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.310831
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "connected": true,
+  "read_access": true,
+  "write_access": true,
+  "timestamp": 1753216173.494655,
+  "status": 0,
+  "severity": 0,
+  "precision": null,
+  "setpoint_timestamp": null,
+  "setpoint_status": null,
+  "setpoint_severity": null,
+  "lower_ctrl_limit": 0,
+  "upper_ctrl_limit": 0,
+  "units": "",
+  "enum_strs": null,
+  "setpoint_precision": null,
+  "sub_type": "meta",
+  "obj": "13SIM1:cam1:NDAttributesFile",
+  "pv": "13SIM1:cam1:NDAttributesFile"
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.316693
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "connected": true,
+  "read_access": true,
+  "write_access": true,
+  "timestamp": 1753216173.506365,
+  "status": 0,
+  "severity": 0,
+  "precision": null,
+  "setpoint_timestamp": null,
+  "setpoint_status": null,
+  "setpoint_severity": null,
+  "lower_ctrl_limit": null,
+  "upper_ctrl_limit": null,
+  "units": null,
+  "enum_strs": null,
+  "setpoint_precision": null,
+  "sub_type": "meta",
+  "obj": "13SIM1:cam1:DriverVersion_RBV",
+  "pv": "13SIM1:cam1:DriverVersion_RBV"
+}
+==================================================
+
+
+=== PROCESSING META UPDATE ===
+Timestamp: 2025-07-22T14:00:42.318749
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:PortName_RBV",
+  "update": {
+    "connected": true,
+    "read_access": true,
+    "write_access": true,
+    "timestamp": 1753216173.506268,
+    "status": 0,
+    "severity": 0,
+    "precision": null,
+    "setpoint_timestamp": null,
+    "setpoint_status": null,
+    "setpoint_severity": null,
+    "lower_ctrl_limit": null,
+    "upper_ctrl_limit": null,
+    "units": null,
+    "enum_strs": null,
+    "setpoint_precision": null,
+    "sub_type": "meta",
+    "obj": "13SIM1:cam1:PortName_RBV",
+    "pv": "13SIM1:cam1:PortName_RBV",
+    "min": null,
+    "max": null
+  }
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.323005
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "connected": true,
+  "read_access": true,
+  "write_access": true,
+  "timestamp": 1753216173.508062,
+  "status": 0,
+  "severity": 0,
+  "precision": null,
+  "setpoint_timestamp": null,
+  "setpoint_status": null,
+  "setpoint_severity": null,
+  "lower_ctrl_limit": null,
+  "upper_ctrl_limit": null,
+  "units": null,
+  "enum_strs": null,
+  "setpoint_precision": null,
+  "sub_type": "meta",
+  "obj": "13SIM1:cam1:Model_RBV",
+  "pv": "13SIM1:cam1:Model_RBV"
+}
+==================================================
+
+
+=== OUTGOING SUBSCRIPTION REQUEST ===
+Timestamp: 2025-07-22T14:00:42.328170
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "action": "subscribe",
+  "pv": "13SIM1:cam1:StatusMessage_RBV"
+}
+==================================================
+
+
+=== PROCESSING META UPDATE ===
+Timestamp: 2025-07-22T14:00:42.325381
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:Model_RBV",
+  "update": {
+    "connected": true,
+    "read_access": true,
+    "write_access": true,
+    "timestamp": 1753216173.508062,
+    "status": 0,
+    "severity": 0,
+    "precision": null,
+    "setpoint_timestamp": null,
+    "setpoint_status": null,
+    "setpoint_severity": null,
+    "lower_ctrl_limit": null,
+    "upper_ctrl_limit": null,
+    "units": null,
+    "enum_strs": null,
+    "setpoint_precision": null,
+    "sub_type": "meta",
+    "obj": "13SIM1:cam1:Model_RBV",
+    "pv": "13SIM1:cam1:Model_RBV",
+    "min": null,
+    "max": null
+  }
+}
+==================================================
+
+
+=== OUTGOING SUBSCRIPTION REQUEST ===
+Timestamp: 2025-07-22T14:00:42.335637
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "action": "subscribe",
+  "pv": "13SIM1:cam1:ArraySizeY_RBV"
+}
+==================================================
+
+
+=== OUTGOING SUBSCRIPTION REQUEST ===
+Timestamp: 2025-07-22T14:00:42.337396
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "action": "subscribe",
+  "pv": "13SIM1:cam1:TriggerMode"
+}
+==================================================
+
+
+=== OUTGOING SUBSCRIPTION REQUEST ===
+Timestamp: 2025-07-22T14:00:42.338795
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "action": "subscribe",
+  "pv": "13SIM1:cam1:TriggerMode_RBV"
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.340241
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:ShutterStatus_RBV",
+  "value": 0,
+  "timestamp": 1753216173.507745,
+  "connected": true,
+  "read_access": true,
+  "write_access": true
+}
+==================================================
+
+
+=== PROCESSING META UPDATE ===
+Timestamp: 2025-07-22T14:00:42.347786
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:ShutterStatusEPICS_RBV",
+  "update": {
+    "connected": true,
+    "read_access": true,
+    "write_access": true,
+    "timestamp": 631152000,
+    "status": 17,
+    "severity": 3,
+    "precision": null,
+    "setpoint_timestamp": null,
+    "setpoint_status": null,
+    "setpoint_severity": null,
+    "lower_ctrl_limit": null,
+    "upper_ctrl_limit": null,
+    "units": null,
+    "enum_strs": [
+      "Closed",
+      "Open"
+    ],
+    "setpoint_precision": null,
+    "sub_type": "meta",
+    "obj": "13SIM1:cam1:ShutterStatusEPICS_RBV",
+    "pv": "13SIM1:cam1:ShutterStatusEPICS_RBV",
+    "min": null,
+    "max": null
+  }
+}
+==================================================
+
+
+=== OUTGOING SUBSCRIPTION REQUEST ===
+Timestamp: 2025-07-22T14:00:42.346636
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "action": "subscribe",
+  "pv": "13SIM1:cam1:AcquireTime"
+}
+==================================================
+
+
+=== OUTGOING SUBSCRIPTION REQUEST ===
+Timestamp: 2025-07-22T14:00:42.351448
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "action": "subscribe",
+  "pv": "13SIM1:cam1:AcquireTime_RBV"
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.357386
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "connected": true,
+  "read_access": true,
+  "write_access": true,
+  "timestamp": 1753216173.488204,
+  "status": 0,
+  "severity": 0,
+  "precision": null,
+  "setpoint_timestamp": null,
+  "setpoint_status": null,
+  "setpoint_severity": null,
+  "lower_ctrl_limit": 0,
+  "upper_ctrl_limit": 0,
+  "units": "",
+  "enum_strs": null,
+  "setpoint_precision": null,
+  "sub_type": "meta",
+  "obj": "13SIM1:cam1:BinY",
+  "pv": "13SIM1:cam1:BinY"
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.356460
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:NDAttributesStatus",
+  "value": 1,
+  "timestamp": 1753216173.507147,
+  "connected": true,
+  "read_access": true,
+  "write_access": true
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.355725
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "connected": true,
+  "read_access": true,
+  "write_access": true,
+  "timestamp": 1753216173.507147,
+  "status": 7,
+  "severity": 1,
+  "precision": null,
+  "setpoint_timestamp": null,
+  "setpoint_status": null,
+  "setpoint_severity": null,
+  "lower_ctrl_limit": null,
+  "upper_ctrl_limit": null,
+  "units": null,
+  "enum_strs": [
+    "Attributes file OK",
+    "File not found",
+    "XML syntax error",
+    "Macro substitution error"
+  ],
+  "setpoint_precision": null,
+  "sub_type": "meta",
+  "obj": "13SIM1:cam1:NDAttributesStatus",
+  "pv": "13SIM1:cam1:NDAttributesStatus"
+}
+==================================================
+
+
+=== PROCESSING META UPDATE ===
+Timestamp: 2025-07-22T14:00:42.361086
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:ShutterControl",
+  "update": {
+    "connected": true,
+    "read_access": true,
+    "write_access": true,
+    "timestamp": 1753216173.48735,
+    "status": 0,
+    "severity": 0,
+    "precision": null,
+    "setpoint_timestamp": null,
+    "setpoint_status": null,
+    "setpoint_severity": null,
+    "lower_ctrl_limit": null,
+    "upper_ctrl_limit": null,
+    "units": null,
+    "enum_strs": [
+      "Close",
+      "Open"
+    ],
+    "setpoint_precision": null,
+    "sub_type": "meta",
+    "obj": "13SIM1:cam1:ShutterControl",
+    "pv": "13SIM1:cam1:ShutterControl",
+    "min": null,
+    "max": null
+  }
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.366803
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "connected": true,
+  "read_access": true,
+  "write_access": true,
+  "timestamp": 1753216173.508325,
+  "status": 0,
+  "severity": 0,
+  "precision": null,
+  "setpoint_timestamp": null,
+  "setpoint_status": null,
+  "setpoint_severity": null,
+  "lower_ctrl_limit": 0,
+  "upper_ctrl_limit": 0,
+  "units": "",
+  "enum_strs": null,
+  "setpoint_precision": null,
+  "sub_type": "meta",
+  "obj": "13SIM1:cam1:BinX_RBV",
+  "pv": "13SIM1:cam1:BinX_RBV"
+}
+==================================================
+
+
+=== OUTGOING SUBSCRIPTION REQUEST ===
+Timestamp: 2025-07-22T14:00:42.364885
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "action": "subscribe",
+  "pv": "13SIM1:cam1:AcquirePeriod_RBV"
+}
+==================================================
+
+
+=== PROCESSING META UPDATE ===
+Timestamp: 2025-07-22T14:00:42.370957
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:FirmwareVersion_RBV",
+  "update": {
+    "connected": true,
+    "read_access": true,
+    "write_access": true,
+    "timestamp": 1753216173.508194,
+    "status": 0,
+    "severity": 0,
+    "precision": null,
+    "setpoint_timestamp": null,
+    "setpoint_status": null,
+    "setpoint_severity": null,
+    "lower_ctrl_limit": null,
+    "upper_ctrl_limit": null,
+    "units": null,
+    "enum_strs": null,
+    "setpoint_precision": null,
+    "sub_type": "meta",
+    "obj": "13SIM1:cam1:FirmwareVersion_RBV",
+    "pv": "13SIM1:cam1:FirmwareVersion_RBV",
+    "min": null,
+    "max": null
+  }
+}
+==================================================
+
+
+=== OUTGOING SUBSCRIPTION REQUEST ===
+Timestamp: 2025-07-22T14:00:42.374226
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "action": "subscribe",
+  "pv": "13SIM1:cam1:NumExposures"
+}
+==================================================
+
+
+=== OUTGOING SUBSCRIPTION REQUEST ===
+Timestamp: 2025-07-22T14:00:42.377469
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "action": "subscribe",
+  "pv": ""
+}
+==================================================
+
+
+=== OUTGOING SUBSCRIPTION REQUEST ===
+Timestamp: 2025-07-22T14:00:42.381934
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "action": "subscribe",
+  "pv": "13SIM1:cam1:ArrayCallbacks"
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.385760
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:BinX",
+  "value": 1,
+  "timestamp": 1753216173.488201,
+  "connected": true,
+  "read_access": true,
+  "write_access": true
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.390693
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "connected": true,
+  "read_access": true,
+  "write_access": true,
+  "timestamp": 1753216173.506318,
+  "status": 0,
+  "severity": 0,
+  "precision": null,
+  "setpoint_timestamp": null,
+  "setpoint_status": null,
+  "setpoint_severity": null,
+  "lower_ctrl_limit": null,
+  "upper_ctrl_limit": null,
+  "units": null,
+  "enum_strs": null,
+  "setpoint_precision": null,
+  "sub_type": "meta",
+  "obj": "13SIM1:cam1:ADCoreVersion_RBV",
+  "pv": "13SIM1:cam1:ADCoreVersion_RBV"
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.389067
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "connected": true,
+  "read_access": true,
+  "write_access": true,
+  "timestamp": 1753216173.508149,
+  "status": 0,
+  "severity": 0,
+  "precision": null,
+  "setpoint_timestamp": null,
+  "setpoint_status": null,
+  "setpoint_severity": null,
+  "lower_ctrl_limit": null,
+  "upper_ctrl_limit": null,
+  "units": null,
+  "enum_strs": null,
+  "setpoint_precision": null,
+  "sub_type": "meta",
+  "obj": "13SIM1:cam1:SerialNumber_RBV",
+  "pv": "13SIM1:cam1:SerialNumber_RBV"
+}
+==================================================
+
+
+=== OUTGOING SUBSCRIPTION REQUEST ===
+Timestamp: 2025-07-22T14:00:42.394934
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "action": "subscribe",
+  "pv": "13SIM1:cam1:NumImages_RBV"
+}
+==================================================
+
+
+=== PROCESSING META UPDATE ===
+Timestamp: 2025-07-22T14:00:42.402754
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:ShutterStatus_RBV",
+  "update": {
+    "connected": true,
+    "read_access": true,
+    "write_access": true,
+    "timestamp": 1753216173.507745,
+    "status": 0,
+    "severity": 0,
+    "precision": null,
+    "setpoint_timestamp": null,
+    "setpoint_status": null,
+    "setpoint_severity": null,
+    "lower_ctrl_limit": null,
+    "upper_ctrl_limit": null,
+    "units": null,
+    "enum_strs": [
+      "Closed",
+      "Open"
+    ],
+    "setpoint_precision": null,
+    "sub_type": "meta",
+    "obj": "13SIM1:cam1:ShutterStatus_RBV",
+    "pv": "13SIM1:cam1:ShutterStatus_RBV",
+    "min": null,
+    "max": null
+  }
+}
+==================================================
+
+
+=== PROCESSING META UPDATE ===
+Timestamp: 2025-07-22T14:00:42.405111
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:BinY_RBV",
+  "update": {
+    "connected": true,
+    "read_access": true,
+    "write_access": true,
+    "timestamp": 1753216173.508359,
+    "status": 0,
+    "severity": 0,
+    "precision": null,
+    "setpoint_timestamp": null,
+    "setpoint_status": null,
+    "setpoint_severity": null,
+    "lower_ctrl_limit": 0,
+    "upper_ctrl_limit": 0,
+    "units": "",
+    "enum_strs": null,
+    "setpoint_precision": null,
+    "sub_type": "meta",
+    "obj": "13SIM1:cam1:BinY_RBV",
+    "pv": "13SIM1:cam1:BinY_RBV",
+    "min": 0,
+    "max": 0
+  }
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.405627
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:MinX_RBV",
+  "value": 0,
+  "timestamp": 1753216173.508251,
+  "connected": true,
+  "read_access": true,
+  "write_access": true
+}
+==================================================
+
+
+=== PROCESSING META UPDATE ===
+Timestamp: 2025-07-22T14:00:42.410173
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:SizeX",
+  "update": {
+    "connected": true,
+    "read_access": true,
+    "write_access": true,
+    "timestamp": 1753216173.488207,
+    "status": 0,
+    "severity": 0,
+    "precision": null,
+    "setpoint_timestamp": null,
+    "setpoint_status": null,
+    "setpoint_severity": null,
+    "lower_ctrl_limit": 0,
+    "upper_ctrl_limit": 0,
+    "units": "",
+    "enum_strs": null,
+    "setpoint_precision": null,
+    "sub_type": "meta",
+    "obj": "13SIM1:cam1:SizeX",
+    "pv": "13SIM1:cam1:SizeX",
+    "min": 0,
+    "max": 0
+  }
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.413723
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:SizeY",
+  "value": 1024,
+  "timestamp": 1753216173.488208,
+  "connected": true,
+  "read_access": true,
+  "write_access": true
+}
+==================================================
+
+
+=== OUTGOING SUBSCRIPTION REQUEST ===
+Timestamp: 2025-07-22T14:00:42.420461
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "action": "subscribe",
+  "pv": "13SIM1:cam1:NumExposures_RBV"
+}
+==================================================
+
+
+=== OUTGOING SUBSCRIPTION REQUEST ===
+Timestamp: 2025-07-22T14:00:42.421260
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "action": "subscribe",
+  "pv": "13SIM1:cam1:Acquire"
+}
+==================================================
+
+
+=== OUTGOING SUBSCRIPTION REQUEST ===
+Timestamp: 2025-07-22T14:00:42.423832
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "action": "subscribe",
+  "pv": "13SIM1:cam1:PoolUsedBuffers"
+}
+==================================================
+
+
+=== PROCESSING META UPDATE ===
+Timestamp: 2025-07-22T14:00:42.425472
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:MinY_RBV",
+  "update": {
+    "connected": true,
+    "read_access": true,
+    "write_access": true,
+    "timestamp": 1753216173.508287,
+    "status": 0,
+    "severity": 0,
+    "precision": null,
+    "setpoint_timestamp": null,
+    "setpoint_status": null,
+    "setpoint_severity": null,
+    "lower_ctrl_limit": 0,
+    "upper_ctrl_limit": 0,
+    "units": "",
+    "enum_strs": null,
+    "setpoint_precision": null,
+    "sub_type": "meta",
+    "obj": "13SIM1:cam1:MinY_RBV",
+    "pv": "13SIM1:cam1:MinY_RBV",
+    "min": 0,
+    "max": 0
+  }
+}
+==================================================
+
+
+=== PROCESSING META UPDATE ===
+Timestamp: 2025-07-22T14:00:42.430015
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:SizeX_RBV",
+  "update": {
+    "connected": true,
+    "read_access": true,
+    "write_access": true,
+    "timestamp": 1753216173.508464,
+    "status": 0,
+    "severity": 0,
+    "precision": null,
+    "setpoint_timestamp": null,
+    "setpoint_status": null,
+    "setpoint_severity": null,
+    "lower_ctrl_limit": 0,
+    "upper_ctrl_limit": 0,
+    "units": "",
+    "enum_strs": null,
+    "setpoint_precision": null,
+    "sub_type": "meta",
+    "obj": "13SIM1:cam1:SizeX_RBV",
+    "pv": "13SIM1:cam1:SizeX_RBV",
+    "min": 0,
+    "max": 0
+  }
+}
+==================================================
+
+
+=== PROCESSING META UPDATE ===
+Timestamp: 2025-07-22T14:00:42.434590
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:ShutterOpenDelay",
+  "update": {
+    "connected": true,
+    "read_access": true,
+    "write_access": true,
+    "timestamp": 1753216173.486888,
+    "status": 0,
+    "severity": 0,
+    "precision": 3,
+    "setpoint_timestamp": null,
+    "setpoint_status": null,
+    "setpoint_severity": null,
+    "lower_ctrl_limit": 0,
+    "upper_ctrl_limit": 0,
+    "units": "",
+    "enum_strs": null,
+    "setpoint_precision": null,
+    "sub_type": "meta",
+    "obj": "13SIM1:cam1:ShutterOpenDelay",
+    "pv": "13SIM1:cam1:ShutterOpenDelay",
+    "min": 0,
+    "max": 0
+  }
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.441031
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "connected": true,
+  "read_access": true,
+  "write_access": true,
+  "timestamp": 1753216173.508494,
+  "status": 0,
+  "severity": 0,
+  "precision": null,
+  "setpoint_timestamp": null,
+  "setpoint_status": null,
+  "setpoint_severity": null,
+  "lower_ctrl_limit": 0,
+  "upper_ctrl_limit": 0,
+  "units": "",
+  "enum_strs": null,
+  "setpoint_precision": null,
+  "sub_type": "meta",
+  "obj": "13SIM1:cam1:SizeY_RBV",
+  "pv": "13SIM1:cam1:SizeY_RBV"
+}
+==================================================
+
+
+=== PROCESSING META UPDATE ===
+Timestamp: 2025-07-22T14:00:42.443255
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:MinX",
+  "update": {
+    "connected": true,
+    "read_access": true,
+    "write_access": true,
+    "timestamp": 1753216173.488205,
+    "status": 0,
+    "severity": 0,
+    "precision": null,
+    "setpoint_timestamp": null,
+    "setpoint_status": null,
+    "setpoint_severity": null,
+    "lower_ctrl_limit": 0,
+    "upper_ctrl_limit": 0,
+    "units": "",
+    "enum_strs": null,
+    "setpoint_precision": null,
+    "sub_type": "meta",
+    "obj": "13SIM1:cam1:MinX",
+    "pv": "13SIM1:cam1:MinX",
+    "min": 0,
+    "max": 0
+  }
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.445565
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "connected": true,
+  "read_access": true,
+  "write_access": true,
+  "timestamp": 1753216173.488205,
+  "status": 0,
+  "severity": 0,
+  "precision": null,
+  "setpoint_timestamp": null,
+  "setpoint_status": null,
+  "setpoint_severity": null,
+  "lower_ctrl_limit": 0,
+  "upper_ctrl_limit": 0,
+  "units": "",
+  "enum_strs": null,
+  "setpoint_precision": null,
+  "sub_type": "meta",
+  "obj": "13SIM1:cam1:MinX",
+  "pv": "13SIM1:cam1:MinX"
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.453475
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:ShutterStatusEPICS_RBV",
+  "value": 0,
+  "timestamp": 631152000,
+  "connected": true,
+  "read_access": true,
+  "write_access": true
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.456042
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "connected": true,
+  "read_access": true,
+  "write_access": true,
+  "timestamp": 1753216173.506622,
+  "status": 0,
+  "severity": 0,
+  "precision": null,
+  "setpoint_timestamp": null,
+  "setpoint_status": null,
+  "setpoint_severity": null,
+  "lower_ctrl_limit": 0,
+  "upper_ctrl_limit": 0,
+  "units": "",
+  "enum_strs": null,
+  "setpoint_precision": null,
+  "sub_type": "meta",
+  "obj": "13SIM1:cam1:ArraySize_RBV",
+  "pv": "13SIM1:cam1:ArraySize_RBV"
+}
+==================================================
+
+
+=== PROCESSING META UPDATE ===
+Timestamp: 2025-07-22T14:00:42.460278
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:DriverVersion_RBV",
+  "update": {
+    "connected": true,
+    "read_access": true,
+    "write_access": true,
+    "timestamp": 1753216173.506365,
+    "status": 0,
+    "severity": 0,
+    "precision": null,
+    "setpoint_timestamp": null,
+    "setpoint_status": null,
+    "setpoint_severity": null,
+    "lower_ctrl_limit": null,
+    "upper_ctrl_limit": null,
+    "units": null,
+    "enum_strs": null,
+    "setpoint_precision": null,
+    "sub_type": "meta",
+    "obj": "13SIM1:cam1:DriverVersion_RBV",
+    "pv": "13SIM1:cam1:DriverVersion_RBV",
+    "min": null,
+    "max": null
+  }
+}
+==================================================
+
+
+=== PROCESSING META UPDATE ===
+Timestamp: 2025-07-22T14:00:42.463463
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:BinY",
+  "update": {
+    "connected": true,
+    "read_access": true,
+    "write_access": true,
+    "timestamp": 1753216173.488204,
+    "status": 0,
+    "severity": 0,
+    "precision": null,
+    "setpoint_timestamp": null,
+    "setpoint_status": null,
+    "setpoint_severity": null,
+    "lower_ctrl_limit": 0,
+    "upper_ctrl_limit": 0,
+    "units": "",
+    "enum_strs": null,
+    "setpoint_precision": null,
+    "sub_type": "meta",
+    "obj": "13SIM1:cam1:BinY",
+    "pv": "13SIM1:cam1:BinY",
+    "min": 0,
+    "max": 0
+  }
+}
+==================================================
+
+
+=== PROCESSING META UPDATE ===
+Timestamp: 2025-07-22T14:00:42.471547
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:AsynIO.CNCT",
+  "update": {
+    "connected": true,
+    "read_access": true,
+    "write_access": true,
+    "timestamp": 631152000,
+    "status": 0,
+    "severity": 0,
+    "precision": null,
+    "setpoint_timestamp": null,
+    "setpoint_status": null,
+    "setpoint_severity": null,
+    "lower_ctrl_limit": null,
+    "upper_ctrl_limit": null,
+    "units": null,
+    "enum_strs": [
+      "Disconnect",
+      "Connect"
+    ],
+    "setpoint_precision": null,
+    "sub_type": "meta",
+    "obj": "13SIM1:cam1:AsynIO.CNCT",
+    "pv": "13SIM1:cam1:AsynIO.CNCT",
+    "min": null,
+    "max": null
+  }
+}
+==================================================
+
+
+=== PROCESSING META UPDATE ===
+Timestamp: 2025-07-22T14:00:42.472408
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:Gain_RBV",
+  "update": {
+    "connected": true,
+    "read_access": true,
+    "write_access": true,
+    "timestamp": 1753216173.508884,
+    "status": 0,
+    "severity": 0,
+    "precision": 3,
+    "setpoint_timestamp": null,
+    "setpoint_status": null,
+    "setpoint_severity": null,
+    "lower_ctrl_limit": 0,
+    "upper_ctrl_limit": 0,
+    "units": "",
+    "enum_strs": null,
+    "setpoint_precision": null,
+    "sub_type": "meta",
+    "obj": "13SIM1:cam1:Gain_RBV",
+    "pv": "13SIM1:cam1:Gain_RBV",
+    "min": 0,
+    "max": 0
+  }
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.473365
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "connected": true,
+  "read_access": true,
+  "write_access": true,
+  "timestamp": 1753216173.486886,
+  "status": 0,
+  "severity": 0,
+  "precision": 3,
+  "setpoint_timestamp": null,
+  "setpoint_status": null,
+  "setpoint_severity": null,
+  "lower_ctrl_limit": 0,
+  "upper_ctrl_limit": 0,
+  "units": "",
+  "enum_strs": null,
+  "setpoint_precision": null,
+  "sub_type": "meta",
+  "obj": "13SIM1:cam1:Gain",
+  "pv": "13SIM1:cam1:Gain"
+}
+==================================================
+
+
+=== PROCESSING META UPDATE ===
+Timestamp: 2025-07-22T14:00:42.474305
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:Gain",
+  "update": {
+    "connected": true,
+    "read_access": true,
+    "write_access": true,
+    "timestamp": 1753216173.486886,
+    "status": 0,
+    "severity": 0,
+    "precision": 3,
+    "setpoint_timestamp": null,
+    "setpoint_status": null,
+    "setpoint_severity": null,
+    "lower_ctrl_limit": 0,
+    "upper_ctrl_limit": 0,
+    "units": "",
+    "enum_strs": null,
+    "setpoint_precision": null,
+    "sub_type": "meta",
+    "obj": "13SIM1:cam1:Gain",
+    "pv": "13SIM1:cam1:Gain",
+    "min": 0,
+    "max": 0
+  }
+}
+==================================================
+
+
+=== OUTGOING SUBSCRIPTION REQUEST ===
+Timestamp: 2025-07-22T14:00:42.479363
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "action": "subscribe",
+  "pv": ""
+}
+==================================================
+
+
+=== OUTGOING SUBSCRIPTION REQUEST ===
+Timestamp: 2025-07-22T14:00:42.478463
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "action": "subscribe",
+  "pv": "13SIM1:cam1:AcquireBusy"
+}
+==================================================
+
+
+=== OUTGOING SUBSCRIPTION REQUEST ===
+Timestamp: 2025-07-22T14:00:42.481565
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "action": "subscribe",
+  "pv": "13SIM1:cam1:ArrayCounter_RBV"
+}
+==================================================
+
+
+=== OUTGOING SUBSCRIPTION REQUEST ===
+Timestamp: 2025-07-22T14:00:42.484570
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "action": "subscribe",
+  "pv": "13SIM1:cam1:WaitForPlugins"
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.487121
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:MaxSizeY_RBV",
+  "value": 1024,
+  "timestamp": 1753216173.507404,
+  "connected": true,
+  "read_access": true,
+  "write_access": true
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.488262
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:ArraySize_RBV",
+  "value": 0,
+  "timestamp": 1753216173.506622,
+  "connected": true,
+  "read_access": true,
+  "write_access": true
+}
+==================================================
+
+
+=== OUTGOING SUBSCRIPTION REQUEST ===
+Timestamp: 2025-07-22T14:00:42.490205
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "action": "subscribe",
+  "pv": ""
+}
+==================================================
+
+
+=== OUTGOING SUBSCRIPTION REQUEST ===
+Timestamp: 2025-07-22T14:00:42.489673
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "action": "subscribe",
+  "pv": "13SIM1:cam1:EmptyFreeList"
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.493134
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:ArraySizeY_RBV",
+  "value": 1024,
+  "timestamp": 1753216173.506504,
+  "connected": true,
+  "read_access": true,
+  "write_access": true
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.498105
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "connected": true,
+  "read_access": true,
+  "write_access": true,
+  "timestamp": 1753216173.48735,
+  "status": 0,
+  "severity": 0,
+  "precision": null,
+  "setpoint_timestamp": null,
+  "setpoint_status": null,
+  "setpoint_severity": null,
+  "lower_ctrl_limit": null,
+  "upper_ctrl_limit": null,
+  "units": null,
+  "enum_strs": [
+    "Close",
+    "Open"
+  ],
+  "setpoint_precision": null,
+  "sub_type": "meta",
+  "obj": "13SIM1:cam1:ShutterControl",
+  "pv": "13SIM1:cam1:ShutterControl"
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.500201
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:DataType",
+  "value": 1,
+  "timestamp": 1753216173.493669,
+  "connected": true,
+  "read_access": true,
+  "write_access": true
+}
+==================================================
+
+
+=== PROCESSING META UPDATE ===
+Timestamp: 2025-07-22T14:00:42.499641
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:SerialNumber_RBV",
+  "update": {
+    "connected": true,
+    "read_access": true,
+    "write_access": true,
+    "timestamp": 1753216173.508149,
+    "status": 0,
+    "severity": 0,
+    "precision": null,
+    "setpoint_timestamp": null,
+    "setpoint_status": null,
+    "setpoint_severity": null,
+    "lower_ctrl_limit": null,
+    "upper_ctrl_limit": null,
+    "units": null,
+    "enum_strs": null,
+    "setpoint_precision": null,
+    "sub_type": "meta",
+    "obj": "13SIM1:cam1:SerialNumber_RBV",
+    "pv": "13SIM1:cam1:SerialNumber_RBV",
+    "min": null,
+    "max": null
+  }
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.501786
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "connected": true,
+  "read_access": true,
+  "write_access": true,
+  "timestamp": 1753216173.493669,
+  "status": 0,
+  "severity": 0,
+  "precision": null,
+  "setpoint_timestamp": null,
+  "setpoint_status": null,
+  "setpoint_severity": null,
+  "lower_ctrl_limit": null,
+  "upper_ctrl_limit": null,
+  "units": null,
+  "enum_strs": [
+    "Int8",
+    "UInt8",
+    "Int16",
+    "UInt16",
+    "Int32",
+    "UInt32",
+    "Int64",
+    "UInt64",
+    "Float32",
+    "Float64"
+  ],
+  "setpoint_precision": null,
+  "sub_type": "meta",
+  "obj": "13SIM1:cam1:DataType",
+  "pv": "13SIM1:cam1:DataType"
+}
+==================================================
+
+
+=== PROCESSING META UPDATE ===
+Timestamp: 2025-07-22T14:00:42.505695
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:AcquireTime",
+  "update": {
+    "connected": true,
+    "read_access": true,
+    "write_access": true,
+    "timestamp": 1753216173.486881,
+    "status": 0,
+    "severity": 0,
+    "precision": 3,
+    "setpoint_timestamp": null,
+    "setpoint_status": null,
+    "setpoint_severity": null,
+    "lower_ctrl_limit": 0,
+    "upper_ctrl_limit": 0,
+    "units": "",
+    "enum_strs": null,
+    "setpoint_precision": null,
+    "sub_type": "meta",
+    "obj": "13SIM1:cam1:AcquireTime",
+    "pv": "13SIM1:cam1:AcquireTime",
+    "min": 0,
+    "max": 0
+  }
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.507013
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "connected": true,
+  "read_access": true,
+  "write_access": true,
+  "timestamp": 1753216173.508251,
+  "status": 0,
+  "severity": 0,
+  "precision": null,
+  "setpoint_timestamp": null,
+  "setpoint_status": null,
+  "setpoint_severity": null,
+  "lower_ctrl_limit": 0,
+  "upper_ctrl_limit": 0,
+  "units": "",
+  "enum_strs": null,
+  "setpoint_precision": null,
+  "sub_type": "meta",
+  "obj": "13SIM1:cam1:MinX_RBV",
+  "pv": "13SIM1:cam1:MinX_RBV"
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.508580
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "connected": true,
+  "read_access": true,
+  "write_access": true,
+  "timestamp": 631152000,
+  "status": 17,
+  "severity": 3,
+  "precision": 1,
+  "setpoint_timestamp": null,
+  "setpoint_status": null,
+  "setpoint_severity": null,
+  "lower_ctrl_limit": 0,
+  "upper_ctrl_limit": 0,
+  "units": "MB",
+  "enum_strs": null,
+  "setpoint_precision": null,
+  "sub_type": "meta",
+  "obj": "13SIM1:cam1:PoolUsedMem",
+  "pv": "13SIM1:cam1:PoolUsedMem"
+}
+==================================================
+
+
+=== PROCESSING META UPDATE ===
+Timestamp: 2025-07-22T14:00:42.510415
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:NumImages",
+  "update": {
+    "connected": true,
+    "read_access": true,
+    "write_access": true,
+    "timestamp": 1753216173.48821,
+    "status": 0,
+    "severity": 0,
+    "precision": null,
+    "setpoint_timestamp": null,
+    "setpoint_status": null,
+    "setpoint_severity": null,
+    "lower_ctrl_limit": 0,
+    "upper_ctrl_limit": 0,
+    "units": "",
+    "enum_strs": null,
+    "setpoint_precision": null,
+    "sub_type": "meta",
+    "obj": "13SIM1:cam1:NumImages",
+    "pv": "13SIM1:cam1:NumImages",
+    "min": 0,
+    "max": 0
+  }
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.513925
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "connected": true,
+  "read_access": true,
+  "write_access": true,
+  "timestamp": 1753216173.50802,
+  "status": 0,
+  "severity": 0,
+  "precision": null,
+  "setpoint_timestamp": null,
+  "setpoint_status": null,
+  "setpoint_severity": null,
+  "lower_ctrl_limit": null,
+  "upper_ctrl_limit": null,
+  "units": null,
+  "enum_strs": null,
+  "setpoint_precision": null,
+  "sub_type": "meta",
+  "obj": "13SIM1:cam1:Manufacturer_RBV",
+  "pv": "13SIM1:cam1:Manufacturer_RBV"
+}
+==================================================
+
+
+=== PROCESSING META UPDATE ===
+Timestamp: 2025-07-22T14:00:42.516447
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:SizeY_RBV",
+  "update": {
+    "connected": true,
+    "read_access": true,
+    "write_access": true,
+    "timestamp": 1753216173.508494,
+    "status": 0,
+    "severity": 0,
+    "precision": null,
+    "setpoint_timestamp": null,
+    "setpoint_status": null,
+    "setpoint_severity": null,
+    "lower_ctrl_limit": 0,
+    "upper_ctrl_limit": 0,
+    "units": "",
+    "enum_strs": null,
+    "setpoint_precision": null,
+    "sub_type": "meta",
+    "obj": "13SIM1:cam1:SizeY_RBV",
+    "pv": "13SIM1:cam1:SizeY_RBV",
+    "min": 0,
+    "max": 0
+  }
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.518659
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "connected": true,
+  "read_access": true,
+  "write_access": true,
+  "timestamp": 631152000,
+  "status": 17,
+  "severity": 3,
+  "precision": null,
+  "setpoint_timestamp": null,
+  "setpoint_status": null,
+  "setpoint_severity": null,
+  "lower_ctrl_limit": null,
+  "upper_ctrl_limit": null,
+  "units": null,
+  "enum_strs": [
+    "Closed",
+    "Open"
+  ],
+  "setpoint_precision": null,
+  "sub_type": "meta",
+  "obj": "13SIM1:cam1:ShutterStatusEPICS_RBV",
+  "pv": "13SIM1:cam1:ShutterStatusEPICS_RBV"
+}
+==================================================
+
+
+=== PROCESSING META UPDATE ===
+Timestamp: 2025-07-22T14:00:42.520862
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:ReverseX",
+  "update": {
+    "connected": true,
+    "read_access": true,
+    "write_access": true,
+    "timestamp": 1753216173.487347,
+    "status": 0,
+    "severity": 0,
+    "precision": null,
+    "setpoint_timestamp": null,
+    "setpoint_status": null,
+    "setpoint_severity": null,
+    "lower_ctrl_limit": null,
+    "upper_ctrl_limit": null,
+    "units": null,
+    "enum_strs": [
+      "No",
+      "Yes"
+    ],
+    "setpoint_precision": null,
+    "sub_type": "meta",
+    "obj": "13SIM1:cam1:ReverseX",
+    "pv": "13SIM1:cam1:ReverseX",
+    "min": null,
+    "max": null
+  }
+}
+==================================================
+
+
+=== PROCESSING META UPDATE ===
+Timestamp: 2025-07-22T14:00:42.523962
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:NumImagesCounter_RBV",
+  "update": {
+    "connected": true,
+    "read_access": true,
+    "write_access": true,
+    "timestamp": 1753216173.507513,
+    "status": 0,
+    "severity": 0,
+    "precision": null,
+    "setpoint_timestamp": null,
+    "setpoint_status": null,
+    "setpoint_severity": null,
+    "lower_ctrl_limit": 0,
+    "upper_ctrl_limit": 0,
+    "units": "",
+    "enum_strs": null,
+    "setpoint_precision": null,
+    "sub_type": "meta",
+    "obj": "13SIM1:cam1:NumImagesCounter_RBV",
+    "pv": "13SIM1:cam1:NumImagesCounter_RBV",
+    "min": 0,
+    "max": 0
+  }
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.524732
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:NumExposures",
+  "value": 8,
+  "timestamp": 1753216173.488209,
+  "connected": true,
+  "read_access": true,
+  "write_access": true
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.523462
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "connected": true,
+  "read_access": true,
+  "write_access": true,
+  "timestamp": 1753216173.506734,
+  "status": 0,
+  "severity": 0,
+  "precision": null,
+  "setpoint_timestamp": null,
+  "setpoint_status": null,
+  "setpoint_severity": null,
+  "lower_ctrl_limit": null,
+  "upper_ctrl_limit": null,
+  "units": null,
+  "enum_strs": [
+    "Mono",
+    "RGB1",
+    "RGB2",
+    "RGB3"
+  ],
+  "setpoint_precision": null,
+  "sub_type": "meta",
+  "obj": "13SIM1:cam1:ColorMode_RBV",
+  "pv": "13SIM1:cam1:ColorMode_RBV"
+}
+==================================================
+
+
+=== PROCESSING META UPDATE ===
+Timestamp: 2025-07-22T14:00:42.526382
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:SDKVersion_RBV",
+  "update": {
+    "connected": true,
+    "read_access": true,
+    "write_access": true,
+    "timestamp": 1753216173.508106,
+    "status": 0,
+    "severity": 0,
+    "precision": null,
+    "setpoint_timestamp": null,
+    "setpoint_status": null,
+    "setpoint_severity": null,
+    "lower_ctrl_limit": null,
+    "upper_ctrl_limit": null,
+    "units": null,
+    "enum_strs": null,
+    "setpoint_precision": null,
+    "sub_type": "meta",
+    "obj": "13SIM1:cam1:SDKVersion_RBV",
+    "pv": "13SIM1:cam1:SDKVersion_RBV",
+    "min": null,
+    "max": null
+  }
+}
+==================================================
+
+
+=== PROCESSING META UPDATE ===
+Timestamp: 2025-07-22T14:00:42.528413
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:NumExposures",
+  "update": {
+    "connected": true,
+    "read_access": true,
+    "write_access": true,
+    "timestamp": 1753216173.488209,
+    "status": 0,
+    "severity": 0,
+    "precision": null,
+    "setpoint_timestamp": null,
+    "setpoint_status": null,
+    "setpoint_severity": null,
+    "lower_ctrl_limit": 0,
+    "upper_ctrl_limit": 0,
+    "units": "",
+    "enum_strs": null,
+    "setpoint_precision": null,
+    "sub_type": "meta",
+    "obj": "13SIM1:cam1:NumExposures",
+    "pv": "13SIM1:cam1:NumExposures",
+    "min": 0,
+    "max": 0
+  }
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.530240
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "connected": true,
+  "read_access": true,
+  "write_access": true,
+  "timestamp": 631152000,
+  "status": 0,
+  "severity": 0,
+  "precision": null,
+  "setpoint_timestamp": null,
+  "setpoint_status": null,
+  "setpoint_severity": null,
+  "lower_ctrl_limit": null,
+  "upper_ctrl_limit": null,
+  "units": null,
+  "enum_strs": [
+    "Disconnect",
+    "Connect"
+  ],
+  "setpoint_precision": null,
+  "sub_type": "meta",
+  "obj": "13SIM1:cam1:AsynIO.CNCT",
+  "pv": "13SIM1:cam1:AsynIO.CNCT"
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.543367
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:NumExposures_RBV",
+  "value": 8,
+  "timestamp": 1753216173.508981,
+  "connected": true,
+  "read_access": true,
+  "write_access": true
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.542543
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "connected": true,
+  "read_access": true,
+  "write_access": true,
+  "timestamp": 1753216173.506268,
+  "status": 0,
+  "severity": 0,
+  "precision": null,
+  "setpoint_timestamp": null,
+  "setpoint_status": null,
+  "setpoint_severity": null,
+  "lower_ctrl_limit": null,
+  "upper_ctrl_limit": null,
+  "units": null,
+  "enum_strs": null,
+  "setpoint_precision": null,
+  "sub_type": "meta",
+  "obj": "13SIM1:cam1:PortName_RBV",
+  "pv": "13SIM1:cam1:PortName_RBV"
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.546284
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "connected": true,
+  "read_access": true,
+  "write_access": true,
+  "timestamp": 1753216173.508287,
+  "status": 0,
+  "severity": 0,
+  "precision": null,
+  "setpoint_timestamp": null,
+  "setpoint_status": null,
+  "setpoint_severity": null,
+  "lower_ctrl_limit": 0,
+  "upper_ctrl_limit": 0,
+  "units": "",
+  "enum_strs": null,
+  "setpoint_precision": null,
+  "sub_type": "meta",
+  "obj": "13SIM1:cam1:MinY_RBV",
+  "pv": "13SIM1:cam1:MinY_RBV"
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.547457
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "connected": true,
+  "read_access": true,
+  "write_access": true,
+  "timestamp": 1753216173.488201,
+  "status": 0,
+  "severity": 0,
+  "precision": null,
+  "setpoint_timestamp": null,
+  "setpoint_status": null,
+  "setpoint_severity": null,
+  "lower_ctrl_limit": 0,
+  "upper_ctrl_limit": 0,
+  "units": "",
+  "enum_strs": null,
+  "setpoint_precision": null,
+  "sub_type": "meta",
+  "obj": "13SIM1:cam1:BinX",
+  "pv": "13SIM1:cam1:BinX"
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.547118
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:ImageMode",
+  "value": 1,
+  "timestamp": 1753216173.493674,
+  "connected": true,
+  "read_access": true,
+  "write_access": true
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.549383
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "connected": true,
+  "read_access": true,
+  "write_access": true,
+  "timestamp": 1753216173.493674,
+  "status": 0,
+  "severity": 0,
+  "precision": null,
+  "setpoint_timestamp": null,
+  "setpoint_status": null,
+  "setpoint_severity": null,
+  "lower_ctrl_limit": null,
+  "upper_ctrl_limit": null,
+  "units": null,
+  "enum_strs": [
+    "Single",
+    "Multiple",
+    "Continuous"
+  ],
+  "setpoint_precision": null,
+  "sub_type": "meta",
+  "obj": "13SIM1:cam1:ImageMode",
+  "pv": "13SIM1:cam1:ImageMode"
+}
+==================================================
+
+
+=== PROCESSING META UPDATE ===
+Timestamp: 2025-07-22T14:00:42.552622
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:TimeRemaining_RBV",
+  "update": {
+    "connected": true,
+    "read_access": true,
+    "write_access": true,
+    "timestamp": 1753216173.507676,
+    "status": 0,
+    "severity": 0,
+    "precision": 3,
+    "setpoint_timestamp": null,
+    "setpoint_status": null,
+    "setpoint_severity": null,
+    "lower_ctrl_limit": 0,
+    "upper_ctrl_limit": 0,
+    "units": "",
+    "enum_strs": null,
+    "setpoint_precision": null,
+    "sub_type": "meta",
+    "obj": "13SIM1:cam1:TimeRemaining_RBV",
+    "pv": "13SIM1:cam1:TimeRemaining_RBV",
+    "min": 0,
+    "max": 0
+  }
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.553397
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "connected": true,
+  "read_access": true,
+  "write_access": true,
+  "timestamp": 631152000,
+  "status": 17,
+  "severity": 3,
+  "precision": null,
+  "setpoint_timestamp": null,
+  "setpoint_status": null,
+  "setpoint_severity": null,
+  "lower_ctrl_limit": 0,
+  "upper_ctrl_limit": 0,
+  "units": "",
+  "enum_strs": null,
+  "setpoint_precision": null,
+  "sub_type": "meta",
+  "obj": "13SIM1:cam1:ArrayCounter",
+  "pv": "13SIM1:cam1:ArrayCounter"
+}
+==================================================
+
+
+=== PROCESSING META UPDATE ===
+Timestamp: 2025-07-22T14:00:42.554592
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:ArrayCounter",
+  "update": {
+    "connected": true,
+    "read_access": true,
+    "write_access": true,
+    "timestamp": 631152000,
+    "status": 17,
+    "severity": 3,
+    "precision": null,
+    "setpoint_timestamp": null,
+    "setpoint_status": null,
+    "setpoint_severity": null,
+    "lower_ctrl_limit": 0,
+    "upper_ctrl_limit": 0,
+    "units": "",
+    "enum_strs": null,
+    "setpoint_precision": null,
+    "sub_type": "meta",
+    "obj": "13SIM1:cam1:ArrayCounter",
+    "pv": "13SIM1:cam1:ArrayCounter",
+    "min": 0,
+    "max": 0
+  }
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.555553
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "connected": true,
+  "read_access": true,
+  "write_access": true,
+  "timestamp": 1753216173.507081,
+  "status": 0,
+  "severity": 0,
+  "precision": null,
+  "setpoint_timestamp": null,
+  "setpoint_status": null,
+  "setpoint_severity": null,
+  "lower_ctrl_limit": 0,
+  "upper_ctrl_limit": 0,
+  "units": "",
+  "enum_strs": null,
+  "setpoint_precision": null,
+  "sub_type": "meta",
+  "obj": "13SIM1:cam1:ArrayCounter_RBV",
+  "pv": "13SIM1:cam1:ArrayCounter_RBV"
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.557005
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "connected": true,
+  "read_access": true,
+  "write_access": true,
+  "timestamp": 1753216173.508194,
+  "status": 0,
+  "severity": 0,
+  "precision": null,
+  "setpoint_timestamp": null,
+  "setpoint_status": null,
+  "setpoint_severity": null,
+  "lower_ctrl_limit": null,
+  "upper_ctrl_limit": null,
+  "units": null,
+  "enum_strs": null,
+  "setpoint_precision": null,
+  "sub_type": "meta",
+  "obj": "13SIM1:cam1:FirmwareVersion_RBV",
+  "pv": "13SIM1:cam1:FirmwareVersion_RBV"
+}
+==================================================
+
+
+=== OUTGOING SUBSCRIPTION REQUEST ===
+Timestamp: 2025-07-22T14:00:42.559159
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "action": "subscribe",
+  "pv": "13SIM1:cam1:PoolUsedMem.SCAN"
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.560029
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "connected": true,
+  "read_access": true,
+  "write_access": true,
+  "timestamp": 1753216173.507876,
+  "status": 0,
+  "severity": 0,
+  "precision": null,
+  "setpoint_timestamp": null,
+  "setpoint_status": null,
+  "setpoint_severity": null,
+  "lower_ctrl_limit": 0,
+  "upper_ctrl_limit": 0,
+  "units": "",
+  "enum_strs": null,
+  "setpoint_precision": null,
+  "sub_type": "meta",
+  "obj": "13SIM1:cam1:StatusMessage_RBV",
+  "pv": "13SIM1:cam1:StatusMessage_RBV"
+}
+==================================================
+
+
+=== PROCESSING META UPDATE ===
+Timestamp: 2025-07-22T14:00:42.560922
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:StatusMessage_RBV",
+  "update": {
+    "connected": true,
+    "read_access": true,
+    "write_access": true,
+    "timestamp": 1753216173.507876,
+    "status": 0,
+    "severity": 0,
+    "precision": null,
+    "setpoint_timestamp": null,
+    "setpoint_status": null,
+    "setpoint_severity": null,
+    "lower_ctrl_limit": 0,
+    "upper_ctrl_limit": 0,
+    "units": "",
+    "enum_strs": null,
+    "setpoint_precision": null,
+    "sub_type": "meta",
+    "obj": "13SIM1:cam1:StatusMessage_RBV",
+    "pv": "13SIM1:cam1:StatusMessage_RBV",
+    "min": 0,
+    "max": 0
+  }
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.561283
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:TriggerMode",
+  "value": 0,
+  "timestamp": 1753216173.493675,
+  "connected": true,
+  "read_access": true,
+  "write_access": true
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.562530
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "connected": true,
+  "read_access": true,
+  "write_access": true,
+  "timestamp": 1753216173.493675,
+  "status": 0,
+  "severity": 0,
+  "precision": null,
+  "setpoint_timestamp": null,
+  "setpoint_status": null,
+  "setpoint_severity": null,
+  "lower_ctrl_limit": null,
+  "upper_ctrl_limit": null,
+  "units": null,
+  "enum_strs": [
+    "Internal",
+    "External"
+  ],
+  "setpoint_precision": null,
+  "sub_type": "meta",
+  "obj": "13SIM1:cam1:TriggerMode",
+  "pv": "13SIM1:cam1:TriggerMode"
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.565347
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "connected": true,
+  "read_access": true,
+  "write_access": true,
+  "timestamp": 1753216173.486881,
+  "status": 0,
+  "severity": 0,
+  "precision": 3,
+  "setpoint_timestamp": null,
+  "setpoint_status": null,
+  "setpoint_severity": null,
+  "lower_ctrl_limit": 0,
+  "upper_ctrl_limit": 0,
+  "units": "",
+  "enum_strs": null,
+  "setpoint_precision": null,
+  "sub_type": "meta",
+  "obj": "13SIM1:cam1:AcquireTime",
+  "pv": "13SIM1:cam1:AcquireTime"
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.567383
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "connected": true,
+  "read_access": true,
+  "write_access": true,
+  "timestamp": 1753216173.508359,
+  "status": 0,
+  "severity": 0,
+  "precision": null,
+  "setpoint_timestamp": null,
+  "setpoint_status": null,
+  "setpoint_severity": null,
+  "lower_ctrl_limit": 0,
+  "upper_ctrl_limit": 0,
+  "units": "",
+  "enum_strs": null,
+  "setpoint_precision": null,
+  "sub_type": "meta",
+  "obj": "13SIM1:cam1:BinY_RBV",
+  "pv": "13SIM1:cam1:BinY_RBV"
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.568474
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "connected": true,
+  "read_access": true,
+  "write_access": true,
+  "timestamp": 1753216173.507745,
+  "status": 0,
+  "severity": 0,
+  "precision": null,
+  "setpoint_timestamp": null,
+  "setpoint_status": null,
+  "setpoint_severity": null,
+  "lower_ctrl_limit": null,
+  "upper_ctrl_limit": null,
+  "units": null,
+  "enum_strs": [
+    "Closed",
+    "Open"
+  ],
+  "setpoint_precision": null,
+  "sub_type": "meta",
+  "obj": "13SIM1:cam1:ShutterStatus_RBV",
+  "pv": "13SIM1:cam1:ShutterStatus_RBV"
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.570056
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "connected": true,
+  "read_access": true,
+  "write_access": true,
+  "timestamp": 631152000,
+  "status": 17,
+  "severity": 3,
+  "precision": 0,
+  "setpoint_timestamp": null,
+  "setpoint_status": null,
+  "setpoint_severity": null,
+  "lower_ctrl_limit": 0,
+  "upper_ctrl_limit": 0,
+  "units": "",
+  "enum_strs": null,
+  "setpoint_precision": null,
+  "sub_type": "meta",
+  "obj": "13SIM1:cam1:PoolUsedBuffers",
+  "pv": "13SIM1:cam1:PoolUsedBuffers"
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.572019
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "connected": true,
+  "read_access": true,
+  "write_access": true,
+  "timestamp": 1753216173.486889,
+  "status": 0,
+  "severity": 0,
+  "precision": 3,
+  "setpoint_timestamp": null,
+  "setpoint_status": null,
+  "setpoint_severity": null,
+  "lower_ctrl_limit": 0,
+  "upper_ctrl_limit": 0,
+  "units": "",
+  "enum_strs": null,
+  "setpoint_precision": null,
+  "sub_type": "meta",
+  "obj": "13SIM1:cam1:ShutterCloseDelay",
+  "pv": "13SIM1:cam1:ShutterCloseDelay"
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.574316
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "connected": true,
+  "read_access": true,
+  "write_access": true,
+  "timestamp": 1753216173.486888,
+  "status": 0,
+  "severity": 0,
+  "precision": 3,
+  "setpoint_timestamp": null,
+  "setpoint_status": null,
+  "setpoint_severity": null,
+  "lower_ctrl_limit": 0,
+  "upper_ctrl_limit": 0,
+  "units": "",
+  "enum_strs": null,
+  "setpoint_precision": null,
+  "sub_type": "meta",
+  "obj": "13SIM1:cam1:ShutterOpenDelay",
+  "pv": "13SIM1:cam1:ShutterOpenDelay"
+}
+==================================================
+
+
+=== PROCESSING META UPDATE ===
+Timestamp: 2025-07-22T14:00:42.575521
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:PoolUsedMem.SCAN",
+  "update": {
+    "connected": true,
+    "read_access": true,
+    "write_access": true,
+    "timestamp": 631152000,
+    "status": 17,
+    "severity": 3,
+    "precision": null,
+    "setpoint_timestamp": null,
+    "setpoint_status": null,
+    "setpoint_severity": null,
+    "lower_ctrl_limit": null,
+    "upper_ctrl_limit": null,
+    "units": null,
+    "enum_strs": [
+      "Passive",
+      "Event",
+      "I/O Intr",
+      "10 second",
+      "5 second",
+      "2 second",
+      "1 second",
+      ".5 second",
+      ".2 second",
+      ".1 second"
+    ],
+    "setpoint_precision": null,
+    "sub_type": "meta",
+    "obj": "13SIM1:cam1:PoolUsedMem.SCAN",
+    "pv": "13SIM1:cam1:PoolUsedMem.SCAN",
+    "min": null,
+    "max": null
+  }
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.576087
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:ReverseY_RBV",
+  "value": 1,
+  "timestamp": 1753216173.508428,
+  "connected": true,
+  "read_access": true,
+  "write_access": true
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.578983
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "connected": true,
+  "read_access": true,
+  "write_access": true,
+  "timestamp": 1753216173.508603,
+  "status": 0,
+  "severity": 0,
+  "precision": 3,
+  "setpoint_timestamp": null,
+  "setpoint_status": null,
+  "setpoint_severity": null,
+  "lower_ctrl_limit": 0,
+  "upper_ctrl_limit": 0,
+  "units": "",
+  "enum_strs": null,
+  "setpoint_precision": null,
+  "sub_type": "meta",
+  "obj": "13SIM1:cam1:AcquirePeriod_RBV",
+  "pv": "13SIM1:cam1:AcquirePeriod_RBV"
+}
+==================================================
+
+
+=== PROCESSING META UPDATE ===
+Timestamp: 2025-07-22T14:00:42.579578
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:PoolUsedMem",
+  "update": {
+    "connected": true,
+    "read_access": true,
+    "write_access": true,
+    "timestamp": 631152000,
+    "status": 17,
+    "severity": 3,
+    "precision": 1,
+    "setpoint_timestamp": null,
+    "setpoint_status": null,
+    "setpoint_severity": null,
+    "lower_ctrl_limit": 0,
+    "upper_ctrl_limit": 0,
+    "units": "MB",
+    "enum_strs": null,
+    "setpoint_precision": null,
+    "sub_type": "meta",
+    "obj": "13SIM1:cam1:PoolUsedMem",
+    "pv": "13SIM1:cam1:PoolUsedMem",
+    "min": 0,
+    "max": 0
+  }
+}
+==================================================
+
+
+=== PROCESSING META UPDATE ===
+Timestamp: 2025-07-22T14:00:42.581239
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:AcquirePeriod_RBV",
+  "update": {
+    "connected": true,
+    "read_access": true,
+    "write_access": true,
+    "timestamp": 1753216173.508603,
+    "status": 0,
+    "severity": 0,
+    "precision": 3,
+    "setpoint_timestamp": null,
+    "setpoint_status": null,
+    "setpoint_severity": null,
+    "lower_ctrl_limit": 0,
+    "upper_ctrl_limit": 0,
+    "units": "",
+    "enum_strs": null,
+    "setpoint_precision": null,
+    "sub_type": "meta",
+    "obj": "13SIM1:cam1:AcquirePeriod_RBV",
+    "pv": "13SIM1:cam1:AcquirePeriod_RBV",
+    "min": 0,
+    "max": 0
+  }
+}
+==================================================
+
+
+=== PROCESSING META UPDATE ===
+Timestamp: 2025-07-22T14:00:42.583633
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:MinX_RBV",
+  "update": {
+    "connected": true,
+    "read_access": true,
+    "write_access": true,
+    "timestamp": 1753216173.508251,
+    "status": 0,
+    "severity": 0,
+    "precision": null,
+    "setpoint_timestamp": null,
+    "setpoint_status": null,
+    "setpoint_severity": null,
+    "lower_ctrl_limit": 0,
+    "upper_ctrl_limit": 0,
+    "units": "",
+    "enum_strs": null,
+    "setpoint_precision": null,
+    "sub_type": "meta",
+    "obj": "13SIM1:cam1:MinX_RBV",
+    "pv": "13SIM1:cam1:MinX_RBV",
+    "min": 0,
+    "max": 0
+  }
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.584462
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:SDKVersion_RBV",
+  "value": "2.9.0",
+  "timestamp": 1753216173.508106,
+  "connected": true,
+  "read_access": true,
+  "write_access": true
+}
+==================================================
+
+
+=== PROCESSING META UPDATE ===
+Timestamp: 2025-07-22T14:00:42.586700
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:MaxSizeY_RBV",
+  "update": {
+    "connected": true,
+    "read_access": true,
+    "write_access": true,
+    "timestamp": 1753216173.507404,
+    "status": 0,
+    "severity": 0,
+    "precision": null,
+    "setpoint_timestamp": null,
+    "setpoint_status": null,
+    "setpoint_severity": null,
+    "lower_ctrl_limit": 0,
+    "upper_ctrl_limit": 0,
+    "units": "",
+    "enum_strs": null,
+    "setpoint_precision": null,
+    "sub_type": "meta",
+    "obj": "13SIM1:cam1:MaxSizeY_RBV",
+    "pv": "13SIM1:cam1:MaxSizeY_RBV",
+    "min": 0,
+    "max": 0
+  }
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.587599
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "connected": true,
+  "read_access": true,
+  "write_access": true,
+  "timestamp": 1753216173.507404,
+  "status": 0,
+  "severity": 0,
+  "precision": null,
+  "setpoint_timestamp": null,
+  "setpoint_status": null,
+  "setpoint_severity": null,
+  "lower_ctrl_limit": 0,
+  "upper_ctrl_limit": 0,
+  "units": "",
+  "enum_strs": null,
+  "setpoint_precision": null,
+  "sub_type": "meta",
+  "obj": "13SIM1:cam1:MaxSizeY_RBV",
+  "pv": "13SIM1:cam1:MaxSizeY_RBV"
+}
+==================================================
+
+
+=== PROCESSING META UPDATE ===
+Timestamp: 2025-07-22T14:00:42.589364
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:ReverseY",
+  "update": {
+    "connected": true,
+    "read_access": true,
+    "write_access": true,
+    "timestamp": 1753216173.487349,
+    "status": 0,
+    "severity": 0,
+    "precision": null,
+    "setpoint_timestamp": null,
+    "setpoint_status": null,
+    "setpoint_severity": null,
+    "lower_ctrl_limit": null,
+    "upper_ctrl_limit": null,
+    "units": null,
+    "enum_strs": [
+      "No",
+      "Yes"
+    ],
+    "setpoint_precision": null,
+    "sub_type": "meta",
+    "obj": "13SIM1:cam1:ReverseY",
+    "pv": "13SIM1:cam1:ReverseY",
+    "min": null,
+    "max": null
+  }
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.592258
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "connected": true,
+  "read_access": true,
+  "write_access": true,
+  "timestamp": 1753216173.507513,
+  "status": 0,
+  "severity": 0,
+  "precision": null,
+  "setpoint_timestamp": null,
+  "setpoint_status": null,
+  "setpoint_severity": null,
+  "lower_ctrl_limit": 0,
+  "upper_ctrl_limit": 0,
+  "units": "",
+  "enum_strs": null,
+  "setpoint_precision": null,
+  "sub_type": "meta",
+  "obj": "13SIM1:cam1:NumImagesCounter_RBV",
+  "pv": "13SIM1:cam1:NumImagesCounter_RBV"
+}
+==================================================
+
+
+=== PROCESSING META UPDATE ===
+Timestamp: 2025-07-22T14:00:42.592782
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:ArraySize_RBV",
+  "update": {
+    "connected": true,
+    "read_access": true,
+    "write_access": true,
+    "timestamp": 1753216173.506622,
+    "status": 0,
+    "severity": 0,
+    "precision": null,
+    "setpoint_timestamp": null,
+    "setpoint_status": null,
+    "setpoint_severity": null,
+    "lower_ctrl_limit": 0,
+    "upper_ctrl_limit": 0,
+    "units": "",
+    "enum_strs": null,
+    "setpoint_precision": null,
+    "sub_type": "meta",
+    "obj": "13SIM1:cam1:ArraySize_RBV",
+    "pv": "13SIM1:cam1:ArraySize_RBV",
+    "min": 0,
+    "max": 0
+  }
+}
+==================================================
+
+
+=== PROCESSING META UPDATE ===
+Timestamp: 2025-07-22T14:00:42.594603
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:NDAttributesFile",
+  "update": {
+    "connected": true,
+    "read_access": true,
+    "write_access": true,
+    "timestamp": 1753216173.494655,
+    "status": 0,
+    "severity": 0,
+    "precision": null,
+    "setpoint_timestamp": null,
+    "setpoint_status": null,
+    "setpoint_severity": null,
+    "lower_ctrl_limit": 0,
+    "upper_ctrl_limit": 0,
+    "units": "",
+    "enum_strs": null,
+    "setpoint_precision": null,
+    "sub_type": "meta",
+    "obj": "13SIM1:cam1:NDAttributesFile",
+    "pv": "13SIM1:cam1:NDAttributesFile",
+    "min": 0,
+    "max": 0
+  }
+}
+==================================================
+
+
+=== PROCESSING META UPDATE ===
+Timestamp: 2025-07-22T14:00:42.595659
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:NDAttributesMacros",
+  "update": {
+    "connected": true,
+    "read_access": true,
+    "write_access": true,
+    "timestamp": 1753216173.494614,
+    "status": 0,
+    "severity": 0,
+    "precision": null,
+    "setpoint_timestamp": null,
+    "setpoint_status": null,
+    "setpoint_severity": null,
+    "lower_ctrl_limit": 0,
+    "upper_ctrl_limit": 0,
+    "units": "",
+    "enum_strs": null,
+    "setpoint_precision": null,
+    "sub_type": "meta",
+    "obj": "13SIM1:cam1:NDAttributesMacros",
+    "pv": "13SIM1:cam1:NDAttributesMacros",
+    "min": 0,
+    "max": 0
+  }
+}
+==================================================
+
+
+=== PROCESSING META UPDATE ===
+Timestamp: 2025-07-22T14:00:42.598302
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:NDAttributesStatus",
+  "update": {
+    "connected": true,
+    "read_access": true,
+    "write_access": true,
+    "timestamp": 1753216173.507147,
+    "status": 7,
+    "severity": 1,
+    "precision": null,
+    "setpoint_timestamp": null,
+    "setpoint_status": null,
+    "setpoint_severity": null,
+    "lower_ctrl_limit": null,
+    "upper_ctrl_limit": null,
+    "units": null,
+    "enum_strs": [
+      "Attributes file OK",
+      "File not found",
+      "XML syntax error",
+      "Macro substitution error"
+    ],
+    "setpoint_precision": null,
+    "sub_type": "meta",
+    "obj": "13SIM1:cam1:NDAttributesStatus",
+    "pv": "13SIM1:cam1:NDAttributesStatus",
+    "min": null,
+    "max": null
+  }
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.596993
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "connected": true,
+  "read_access": true,
+  "write_access": true,
+  "timestamp": 1753216173.494614,
+  "status": 0,
+  "severity": 0,
+  "precision": null,
+  "setpoint_timestamp": null,
+  "setpoint_status": null,
+  "setpoint_severity": null,
+  "lower_ctrl_limit": 0,
+  "upper_ctrl_limit": 0,
+  "units": "",
+  "enum_strs": null,
+  "setpoint_precision": null,
+  "sub_type": "meta",
+  "obj": "13SIM1:cam1:NDAttributesMacros",
+  "pv": "13SIM1:cam1:NDAttributesMacros"
+}
+==================================================
+
+
+=== PROCESSING META UPDATE ===
+Timestamp: 2025-07-22T14:00:42.601916
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:NumExposures_RBV",
+  "update": {
+    "connected": true,
+    "read_access": true,
+    "write_access": true,
+    "timestamp": 1753216173.508981,
+    "status": 0,
+    "severity": 0,
+    "precision": null,
+    "setpoint_timestamp": null,
+    "setpoint_status": null,
+    "setpoint_severity": null,
+    "lower_ctrl_limit": 0,
+    "upper_ctrl_limit": 0,
+    "units": "",
+    "enum_strs": null,
+    "setpoint_precision": null,
+    "sub_type": "meta",
+    "obj": "13SIM1:cam1:NumExposures_RBV",
+    "pv": "13SIM1:cam1:NumExposures_RBV",
+    "min": 0,
+    "max": 0
+  }
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.600968
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:Acquire",
+  "value": 0,
+  "timestamp": 1753216173.507788,
+  "connected": true,
+  "read_access": true,
+  "write_access": true
+}
+==================================================
+
+
+=== PROCESSING META UPDATE ===
+Timestamp: 2025-07-22T14:00:42.603136
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:Acquire",
+  "update": {
+    "connected": true,
+    "read_access": true,
+    "write_access": true,
+    "timestamp": 1753216173.507788,
+    "status": 0,
+    "severity": 0,
+    "precision": null,
+    "setpoint_timestamp": null,
+    "setpoint_status": null,
+    "setpoint_severity": null,
+    "lower_ctrl_limit": null,
+    "upper_ctrl_limit": null,
+    "units": null,
+    "enum_strs": [
+      "Done",
+      "Acquire"
+    ],
+    "setpoint_precision": null,
+    "sub_type": "meta",
+    "obj": "13SIM1:cam1:Acquire",
+    "pv": "13SIM1:cam1:Acquire",
+    "min": null,
+    "max": null
+  }
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.605362
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "connected": true,
+  "read_access": true,
+  "write_access": true,
+  "timestamp": 1753216173.507788,
+  "status": 0,
+  "severity": 0,
+  "precision": null,
+  "setpoint_timestamp": null,
+  "setpoint_status": null,
+  "setpoint_severity": null,
+  "lower_ctrl_limit": null,
+  "upper_ctrl_limit": null,
+  "units": null,
+  "enum_strs": [
+    "Done",
+    "Acquire"
+  ],
+  "setpoint_precision": null,
+  "sub_type": "meta",
+  "obj": "13SIM1:cam1:Acquire",
+  "pv": "13SIM1:cam1:Acquire"
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.607489
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "connected": true,
+  "read_access": true,
+  "write_access": true,
+  "timestamp": 1753216173.507676,
+  "status": 0,
+  "severity": 0,
+  "precision": 3,
+  "setpoint_timestamp": null,
+  "setpoint_status": null,
+  "setpoint_severity": null,
+  "lower_ctrl_limit": 0,
+  "upper_ctrl_limit": 0,
+  "units": "",
+  "enum_strs": null,
+  "setpoint_precision": null,
+  "sub_type": "meta",
+  "obj": "13SIM1:cam1:TimeRemaining_RBV",
+  "pv": "13SIM1:cam1:TimeRemaining_RBV"
+}
+==================================================
+
+
+=== PROCESSING META UPDATE ===
+Timestamp: 2025-07-22T14:00:42.608009
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:DetectorState_RBV",
+  "update": {
+    "connected": true,
+    "read_access": true,
+    "write_access": true,
+    "timestamp": 1753216173.507458,
+    "status": 0,
+    "severity": 0,
+    "precision": null,
+    "setpoint_timestamp": null,
+    "setpoint_status": null,
+    "setpoint_severity": null,
+    "lower_ctrl_limit": null,
+    "upper_ctrl_limit": null,
+    "units": null,
+    "enum_strs": [
+      "Idle",
+      "Acquire",
+      "Readout",
+      "Correct",
+      "Saving",
+      "Aborting",
+      "Error",
+      "Waiting",
+      "Initializing",
+      "Disconnected",
+      "Aborted"
+    ],
+    "setpoint_precision": null,
+    "sub_type": "meta",
+    "obj": "13SIM1:cam1:DetectorState_RBV",
+    "pv": "13SIM1:cam1:DetectorState_RBV",
+    "min": null,
+    "max": null
+  }
+}
+==================================================
+
+
+=== PROCESSING META UPDATE ===
+Timestamp: 2025-07-22T14:00:42.610619
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:ArrayCounter_RBV",
+  "update": {
+    "connected": true,
+    "read_access": true,
+    "write_access": true,
+    "timestamp": 1753216173.507081,
+    "status": 0,
+    "severity": 0,
+    "precision": null,
+    "setpoint_timestamp": null,
+    "setpoint_status": null,
+    "setpoint_severity": null,
+    "lower_ctrl_limit": 0,
+    "upper_ctrl_limit": 0,
+    "units": "",
+    "enum_strs": null,
+    "setpoint_precision": null,
+    "sub_type": "meta",
+    "obj": "13SIM1:cam1:ArrayCounter_RBV",
+    "pv": "13SIM1:cam1:ArrayCounter_RBV",
+    "min": 0,
+    "max": 0
+  }
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.611615
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "connected": true,
+  "read_access": true,
+  "write_access": true,
+  "timestamp": 1753216230.985993,
+  "status": 0,
+  "severity": 0,
+  "precision": 2,
+  "setpoint_timestamp": null,
+  "setpoint_status": null,
+  "setpoint_severity": null,
+  "lower_ctrl_limit": 0,
+  "upper_ctrl_limit": 0,
+  "units": "Hz",
+  "enum_strs": null,
+  "setpoint_precision": null,
+  "sub_type": "meta",
+  "obj": "13SIM1:cam1:ArrayRate_RBV",
+  "pv": "13SIM1:cam1:ArrayRate_RBV"
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.613951
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "connected": true,
+  "read_access": true,
+  "write_access": true,
+  "timestamp": 1753216173.508522,
+  "status": 0,
+  "severity": 0,
+  "precision": null,
+  "setpoint_timestamp": null,
+  "setpoint_status": null,
+  "setpoint_severity": null,
+  "lower_ctrl_limit": null,
+  "upper_ctrl_limit": null,
+  "units": null,
+  "enum_strs": [
+    "Int8",
+    "UInt8",
+    "Int16",
+    "UInt16",
+    "Int32",
+    "UInt32",
+    "Int64",
+    "UInt64",
+    "Float32",
+    "Float64"
+  ],
+  "setpoint_precision": null,
+  "sub_type": "meta",
+  "obj": "13SIM1:cam1:DataType_RBV",
+  "pv": "13SIM1:cam1:DataType_RBV"
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.613538
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:NumQueuedArrays",
+  "value": 0,
+  "timestamp": 1753216173.50729,
+  "connected": true,
+  "read_access": true,
+  "write_access": true
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.615890
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "connected": true,
+  "read_access": true,
+  "write_access": true,
+  "timestamp": 1753216173.50729,
+  "status": 0,
+  "severity": 0,
+  "precision": null,
+  "setpoint_timestamp": null,
+  "setpoint_status": null,
+  "setpoint_severity": null,
+  "lower_ctrl_limit": 0,
+  "upper_ctrl_limit": 0,
+  "units": "",
+  "enum_strs": null,
+  "setpoint_precision": null,
+  "sub_type": "meta",
+  "obj": "13SIM1:cam1:NumQueuedArrays",
+  "pv": "13SIM1:cam1:NumQueuedArrays"
+}
+==================================================
+
+
+=== PROCESSING META UPDATE ===
+Timestamp: 2025-07-22T14:00:42.617698
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:NumQueuedArrays",
+  "update": {
+    "connected": true,
+    "read_access": true,
+    "write_access": true,
+    "timestamp": 1753216173.50729,
+    "status": 0,
+    "severity": 0,
+    "precision": null,
+    "setpoint_timestamp": null,
+    "setpoint_status": null,
+    "setpoint_severity": null,
+    "lower_ctrl_limit": 0,
+    "upper_ctrl_limit": 0,
+    "units": "",
+    "enum_strs": null,
+    "setpoint_precision": null,
+    "sub_type": "meta",
+    "obj": "13SIM1:cam1:NumQueuedArrays",
+    "pv": "13SIM1:cam1:NumQueuedArrays",
+    "min": 0,
+    "max": 0
+  }
+}
+==================================================
+
+
+=== PROCESSING META UPDATE ===
+Timestamp: 2025-07-22T14:00:42.620314
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:AcquireBusy",
+  "update": {
+    "connected": true,
+    "read_access": true,
+    "write_access": true,
+    "timestamp": 631152000,
+    "status": 17,
+    "severity": 0,
+    "precision": null,
+    "setpoint_timestamp": null,
+    "setpoint_status": null,
+    "setpoint_severity": null,
+    "lower_ctrl_limit": null,
+    "upper_ctrl_limit": null,
+    "units": null,
+    "enum_strs": [
+      "Done",
+      "Acquiring"
+    ],
+    "setpoint_precision": null,
+    "sub_type": "meta",
+    "obj": "13SIM1:cam1:AcquireBusy",
+    "pv": "13SIM1:cam1:AcquireBusy",
+    "min": null,
+    "max": null
+  }
+}
+==================================================
+
+
+=== PROCESSING META UPDATE ===
+Timestamp: 2025-07-22T14:00:42.620857
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:PoolUsedBuffers",
+  "update": {
+    "connected": true,
+    "read_access": true,
+    "write_access": true,
+    "timestamp": 631152000,
+    "status": 17,
+    "severity": 3,
+    "precision": 0,
+    "setpoint_timestamp": null,
+    "setpoint_status": null,
+    "setpoint_severity": null,
+    "lower_ctrl_limit": 0,
+    "upper_ctrl_limit": 0,
+    "units": "",
+    "enum_strs": null,
+    "setpoint_precision": null,
+    "sub_type": "meta",
+    "obj": "13SIM1:cam1:PoolUsedBuffers",
+    "pv": "13SIM1:cam1:PoolUsedBuffers",
+    "min": 0,
+    "max": 0
+  }
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.622156
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "connected": true,
+  "read_access": true,
+  "write_access": true,
+  "timestamp": 631152000,
+  "status": 17,
+  "severity": 3,
+  "precision": null,
+  "setpoint_timestamp": null,
+  "setpoint_status": null,
+  "setpoint_severity": null,
+  "lower_ctrl_limit": 0,
+  "upper_ctrl_limit": 0,
+  "units": "",
+  "enum_strs": null,
+  "setpoint_precision": null,
+  "sub_type": "meta",
+  "obj": "13SIM1:cam1:PoolAllocBuffers",
+  "pv": "13SIM1:cam1:PoolAllocBuffers"
+}
+==================================================
+
+
+=== PROCESSING META UPDATE ===
+Timestamp: 2025-07-22T14:00:42.623962
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:PoolAllocBuffers",
+  "update": {
+    "connected": true,
+    "read_access": true,
+    "write_access": true,
+    "timestamp": 631152000,
+    "status": 17,
+    "severity": 3,
+    "precision": null,
+    "setpoint_timestamp": null,
+    "setpoint_status": null,
+    "setpoint_severity": null,
+    "lower_ctrl_limit": 0,
+    "upper_ctrl_limit": 0,
+    "units": "",
+    "enum_strs": null,
+    "setpoint_precision": null,
+    "sub_type": "meta",
+    "obj": "13SIM1:cam1:PoolAllocBuffers",
+    "pv": "13SIM1:cam1:PoolAllocBuffers",
+    "min": 0,
+    "max": 0
+  }
+}
+==================================================
+
+
+=== PROCESSING META UPDATE ===
+Timestamp: 2025-07-22T14:00:42.627081
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:ShutterCloseDelay",
+  "update": {
+    "connected": true,
+    "read_access": true,
+    "write_access": true,
+    "timestamp": 1753216173.486889,
+    "status": 0,
+    "severity": 0,
+    "precision": 3,
+    "setpoint_timestamp": null,
+    "setpoint_status": null,
+    "setpoint_severity": null,
+    "lower_ctrl_limit": 0,
+    "upper_ctrl_limit": 0,
+    "units": "",
+    "enum_strs": null,
+    "setpoint_precision": null,
+    "sub_type": "meta",
+    "obj": "13SIM1:cam1:ShutterCloseDelay",
+    "pv": "13SIM1:cam1:ShutterCloseDelay",
+    "min": 0,
+    "max": 0
+  }
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.627537
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "connected": true,
+  "read_access": true,
+  "write_access": true,
+  "timestamp": 1753216173.508428,
+  "status": 0,
+  "severity": 0,
+  "precision": null,
+  "setpoint_timestamp": null,
+  "setpoint_status": null,
+  "setpoint_severity": null,
+  "lower_ctrl_limit": null,
+  "upper_ctrl_limit": null,
+  "units": null,
+  "enum_strs": [
+    "No",
+    "Yes"
+  ],
+  "setpoint_precision": null,
+  "sub_type": "meta",
+  "obj": "13SIM1:cam1:ReverseY_RBV",
+  "pv": "13SIM1:cam1:ReverseY_RBV"
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.628294
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:AcquirePeriod_RBV",
+  "value": 4,
+  "timestamp": 1753216173.508603,
+  "connected": true,
+  "read_access": true,
+  "write_access": true
+}
+==================================================
+
+
+=== PROCESSING META UPDATE ===
+Timestamp: 2025-07-22T14:00:42.629766
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:PoolMaxMem",
+  "update": {
+    "connected": true,
+    "read_access": true,
+    "write_access": true,
+    "timestamp": 1753216173.486741,
+    "status": 0,
+    "severity": 0,
+    "precision": 1,
+    "setpoint_timestamp": null,
+    "setpoint_status": null,
+    "setpoint_severity": null,
+    "lower_ctrl_limit": 0,
+    "upper_ctrl_limit": 0,
+    "units": "MB",
+    "enum_strs": null,
+    "setpoint_precision": null,
+    "sub_type": "meta",
+    "obj": "13SIM1:cam1:PoolMaxMem",
+    "pv": "13SIM1:cam1:PoolMaxMem",
+    "min": 0,
+    "max": 0
+  }
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.632673
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "connected": true,
+  "read_access": true,
+  "write_access": true,
+  "timestamp": 1753216173.493671,
+  "status": 0,
+  "severity": 0,
+  "precision": null,
+  "setpoint_timestamp": null,
+  "setpoint_status": null,
+  "setpoint_severity": null,
+  "lower_ctrl_limit": null,
+  "upper_ctrl_limit": null,
+  "units": null,
+  "enum_strs": [
+    "Mono",
+    "RGB1",
+    "RGB2",
+    "RGB3"
+  ],
+  "setpoint_precision": null,
+  "sub_type": "meta",
+  "obj": "13SIM1:cam1:ColorMode",
+  "pv": "13SIM1:cam1:ColorMode"
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.633317
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "connected": true,
+  "read_access": true,
+  "write_access": true,
+  "timestamp": 1753216173.507349,
+  "status": 0,
+  "severity": 0,
+  "precision": null,
+  "setpoint_timestamp": null,
+  "setpoint_status": null,
+  "setpoint_severity": null,
+  "lower_ctrl_limit": 0,
+  "upper_ctrl_limit": 0,
+  "units": "",
+  "enum_strs": null,
+  "setpoint_precision": null,
+  "sub_type": "meta",
+  "obj": "13SIM1:cam1:MaxSizeX_RBV",
+  "pv": "13SIM1:cam1:MaxSizeX_RBV"
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.635826
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "connected": true,
+  "read_access": true,
+  "write_access": true,
+  "timestamp": 1753216173.488209,
+  "status": 0,
+  "severity": 0,
+  "precision": null,
+  "setpoint_timestamp": null,
+  "setpoint_status": null,
+  "setpoint_severity": null,
+  "lower_ctrl_limit": 0,
+  "upper_ctrl_limit": 0,
+  "units": "",
+  "enum_strs": null,
+  "setpoint_precision": null,
+  "sub_type": "meta",
+  "obj": "13SIM1:cam1:NumExposures",
+  "pv": "13SIM1:cam1:NumExposures"
+}
+==================================================
+
+
+=== PROCESSING META UPDATE ===
+Timestamp: 2025-07-22T14:00:42.635201
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:ColorMode_RBV",
+  "update": {
+    "connected": true,
+    "read_access": true,
+    "write_access": true,
+    "timestamp": 1753216173.506734,
+    "status": 0,
+    "severity": 0,
+    "precision": null,
+    "setpoint_timestamp": null,
+    "setpoint_status": null,
+    "setpoint_severity": null,
+    "lower_ctrl_limit": null,
+    "upper_ctrl_limit": null,
+    "units": null,
+    "enum_strs": [
+      "Mono",
+      "RGB1",
+      "RGB2",
+      "RGB3"
+    ],
+    "setpoint_precision": null,
+    "sub_type": "meta",
+    "obj": "13SIM1:cam1:ColorMode_RBV",
+    "pv": "13SIM1:cam1:ColorMode_RBV",
+    "min": null,
+    "max": null
+  }
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.636391
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "connected": true,
+  "read_access": true,
+  "write_access": true,
+  "timestamp": 1753216173.493676,
+  "status": 0,
+  "severity": 0,
+  "precision": null,
+  "setpoint_timestamp": null,
+  "setpoint_status": null,
+  "setpoint_severity": null,
+  "lower_ctrl_limit": null,
+  "upper_ctrl_limit": null,
+  "units": null,
+  "enum_strs": [
+    "None",
+    "EPICS PV",
+    "Detector output"
+  ],
+  "setpoint_precision": null,
+  "sub_type": "meta",
+  "obj": "13SIM1:cam1:ShutterMode",
+  "pv": "13SIM1:cam1:ShutterMode"
+}
+==================================================
+
+
+=== PROCESSING META UPDATE ===
+Timestamp: 2025-07-22T14:00:42.638234
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:ADCoreVersion_RBV",
+  "update": {
+    "connected": true,
+    "read_access": true,
+    "write_access": true,
+    "timestamp": 1753216173.506318,
+    "status": 0,
+    "severity": 0,
+    "precision": null,
+    "setpoint_timestamp": null,
+    "setpoint_status": null,
+    "setpoint_severity": null,
+    "lower_ctrl_limit": null,
+    "upper_ctrl_limit": null,
+    "units": null,
+    "enum_strs": null,
+    "setpoint_precision": null,
+    "sub_type": "meta",
+    "obj": "13SIM1:cam1:ADCoreVersion_RBV",
+    "pv": "13SIM1:cam1:ADCoreVersion_RBV",
+    "min": null,
+    "max": null
+  }
+}
+==================================================
+
+
+=== PROCESSING META UPDATE ===
+Timestamp: 2025-07-22T14:00:42.642804
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:ShutterMode",
+  "update": {
+    "connected": true,
+    "read_access": true,
+    "write_access": true,
+    "timestamp": 1753216173.493676,
+    "status": 0,
+    "severity": 0,
+    "precision": null,
+    "setpoint_timestamp": null,
+    "setpoint_status": null,
+    "setpoint_severity": null,
+    "lower_ctrl_limit": null,
+    "upper_ctrl_limit": null,
+    "units": null,
+    "enum_strs": [
+      "None",
+      "EPICS PV",
+      "Detector output"
+    ],
+    "setpoint_precision": null,
+    "sub_type": "meta",
+    "obj": "13SIM1:cam1:ShutterMode",
+    "pv": "13SIM1:cam1:ShutterMode",
+    "min": null,
+    "max": null
+  }
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.644677
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "connected": true,
+  "read_access": true,
+  "write_access": true,
+  "timestamp": 1753216173.507458,
+  "status": 0,
+  "severity": 0,
+  "precision": null,
+  "setpoint_timestamp": null,
+  "setpoint_status": null,
+  "setpoint_severity": null,
+  "lower_ctrl_limit": null,
+  "upper_ctrl_limit": null,
+  "units": null,
+  "enum_strs": [
+    "Idle",
+    "Acquire",
+    "Readout",
+    "Correct",
+    "Saving",
+    "Aborting",
+    "Error",
+    "Waiting",
+    "Initializing",
+    "Disconnected",
+    "Aborted"
+  ],
+  "setpoint_precision": null,
+  "sub_type": "meta",
+  "obj": "13SIM1:cam1:DetectorState_RBV",
+  "pv": "13SIM1:cam1:DetectorState_RBV"
+}
+==================================================
+
+
+=== PROCESSING META UPDATE ===
+Timestamp: 2025-07-22T14:00:42.645971
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:ArrayRate_RBV",
+  "update": {
+    "connected": true,
+    "read_access": true,
+    "write_access": true,
+    "timestamp": 1753216230.985993,
+    "status": 0,
+    "severity": 0,
+    "precision": 2,
+    "setpoint_timestamp": null,
+    "setpoint_status": null,
+    "setpoint_severity": null,
+    "lower_ctrl_limit": 0,
+    "upper_ctrl_limit": 0,
+    "units": "Hz",
+    "enum_strs": null,
+    "setpoint_precision": null,
+    "sub_type": "meta",
+    "obj": "13SIM1:cam1:ArrayRate_RBV",
+    "pv": "13SIM1:cam1:ArrayRate_RBV",
+    "min": 0,
+    "max": 0
+  }
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.648042
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:ArrayCallbacks",
+  "value": 1,
+  "timestamp": 1753216173.487345,
+  "connected": true,
+  "read_access": true,
+  "write_access": true
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.649016
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "connected": true,
+  "read_access": true,
+  "write_access": true,
+  "timestamp": 1753216173.488207,
+  "status": 0,
+  "severity": 0,
+  "precision": null,
+  "setpoint_timestamp": null,
+  "setpoint_status": null,
+  "setpoint_severity": null,
+  "lower_ctrl_limit": 0,
+  "upper_ctrl_limit": 0,
+  "units": "",
+  "enum_strs": null,
+  "setpoint_precision": null,
+  "sub_type": "meta",
+  "obj": "13SIM1:cam1:SizeX",
+  "pv": "13SIM1:cam1:SizeX"
+}
+==================================================
+
+
+=== PROCESSING META UPDATE ===
+Timestamp: 2025-07-22T14:00:42.651631
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:TriggerMode",
+  "update": {
+    "connected": true,
+    "read_access": true,
+    "write_access": true,
+    "timestamp": 1753216173.493675,
+    "status": 0,
+    "severity": 0,
+    "precision": null,
+    "setpoint_timestamp": null,
+    "setpoint_status": null,
+    "setpoint_severity": null,
+    "lower_ctrl_limit": null,
+    "upper_ctrl_limit": null,
+    "units": null,
+    "enum_strs": [
+      "Internal",
+      "External"
+    ],
+    "setpoint_precision": null,
+    "sub_type": "meta",
+    "obj": "13SIM1:cam1:TriggerMode",
+    "pv": "13SIM1:cam1:TriggerMode",
+    "min": null,
+    "max": null
+  }
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.652542
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "connected": true,
+  "read_access": true,
+  "write_access": true,
+  "timestamp": 1753216173.50899,
+  "status": 0,
+  "severity": 0,
+  "precision": null,
+  "setpoint_timestamp": null,
+  "setpoint_status": null,
+  "setpoint_severity": null,
+  "lower_ctrl_limit": null,
+  "upper_ctrl_limit": null,
+  "units": null,
+  "enum_strs": [
+    "Internal",
+    "External"
+  ],
+  "setpoint_precision": null,
+  "sub_type": "meta",
+  "obj": "13SIM1:cam1:TriggerMode_RBV",
+  "pv": "13SIM1:cam1:TriggerMode_RBV"
+}
+==================================================
+
+
+=== PROCESSING META UPDATE ===
+Timestamp: 2025-07-22T14:00:42.654762
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:TriggerMode_RBV",
+  "update": {
+    "connected": true,
+    "read_access": true,
+    "write_access": true,
+    "timestamp": 1753216173.50899,
+    "status": 0,
+    "severity": 0,
+    "precision": null,
+    "setpoint_timestamp": null,
+    "setpoint_status": null,
+    "setpoint_severity": null,
+    "lower_ctrl_limit": null,
+    "upper_ctrl_limit": null,
+    "units": null,
+    "enum_strs": [
+      "Internal",
+      "External"
+    ],
+    "setpoint_precision": null,
+    "sub_type": "meta",
+    "obj": "13SIM1:cam1:TriggerMode_RBV",
+    "pv": "13SIM1:cam1:TriggerMode_RBV",
+    "min": null,
+    "max": null
+  }
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.655754
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "connected": true,
+  "read_access": true,
+  "write_access": true,
+  "timestamp": 631152000,
+  "status": 17,
+  "severity": 0,
+  "precision": null,
+  "setpoint_timestamp": null,
+  "setpoint_status": null,
+  "setpoint_severity": null,
+  "lower_ctrl_limit": null,
+  "upper_ctrl_limit": null,
+  "units": null,
+  "enum_strs": [
+    "Done",
+    "Acquiring"
+  ],
+  "setpoint_precision": null,
+  "sub_type": "meta",
+  "obj": "13SIM1:cam1:AcquireBusy",
+  "pv": "13SIM1:cam1:AcquireBusy"
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.658424
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "connected": true,
+  "read_access": true,
+  "write_access": true,
+  "timestamp": 631152000,
+  "status": 17,
+  "severity": 3,
+  "precision": null,
+  "setpoint_timestamp": null,
+  "setpoint_status": null,
+  "setpoint_severity": null,
+  "lower_ctrl_limit": null,
+  "upper_ctrl_limit": null,
+  "units": null,
+  "enum_strs": [
+    "Passive",
+    "Event",
+    "I/O Intr",
+    "10 second",
+    "5 second",
+    "2 second",
+    "1 second",
+    ".5 second",
+    ".2 second",
+    ".1 second"
+  ],
+  "setpoint_precision": null,
+  "sub_type": "meta",
+  "obj": "13SIM1:cam1:PoolUsedMem.SCAN",
+  "pv": "13SIM1:cam1:PoolUsedMem.SCAN"
+}
+==================================================
+
+
+=== PROCESSING META UPDATE ===
+Timestamp: 2025-07-22T14:00:42.660203
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:ReverseX_RBV",
+  "update": {
+    "connected": true,
+    "read_access": true,
+    "write_access": true,
+    "timestamp": 1753216173.508393,
+    "status": 0,
+    "severity": 0,
+    "precision": null,
+    "setpoint_timestamp": null,
+    "setpoint_status": null,
+    "setpoint_severity": null,
+    "lower_ctrl_limit": null,
+    "upper_ctrl_limit": null,
+    "units": null,
+    "enum_strs": [
+      "No",
+      "Yes"
+    ],
+    "setpoint_precision": null,
+    "sub_type": "meta",
+    "obj": "13SIM1:cam1:ReverseX_RBV",
+    "pv": "13SIM1:cam1:ReverseX_RBV",
+    "min": null,
+    "max": null
+  }
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.659261
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "connected": true,
+  "read_access": true,
+  "write_access": true,
+  "timestamp": 1753216173.508393,
+  "status": 0,
+  "severity": 0,
+  "precision": null,
+  "setpoint_timestamp": null,
+  "setpoint_status": null,
+  "setpoint_severity": null,
+  "lower_ctrl_limit": null,
+  "upper_ctrl_limit": null,
+  "units": null,
+  "enum_strs": [
+    "No",
+    "Yes"
+  ],
+  "setpoint_precision": null,
+  "sub_type": "meta",
+  "obj": "13SIM1:cam1:ReverseX_RBV",
+  "pv": "13SIM1:cam1:ReverseX_RBV"
+}
+==================================================
+
+
+=== PROCESSING META UPDATE ===
+Timestamp: 2025-07-22T14:00:42.661159
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:AcquirePeriod",
+  "update": {
+    "connected": true,
+    "read_access": true,
+    "write_access": true,
+    "timestamp": 1753216173.486885,
+    "status": 0,
+    "severity": 0,
+    "precision": 3,
+    "setpoint_timestamp": null,
+    "setpoint_status": null,
+    "setpoint_severity": null,
+    "lower_ctrl_limit": 0,
+    "upper_ctrl_limit": 0,
+    "units": "",
+    "enum_strs": null,
+    "setpoint_precision": null,
+    "sub_type": "meta",
+    "obj": "13SIM1:cam1:AcquirePeriod",
+    "pv": "13SIM1:cam1:AcquirePeriod",
+    "min": 0,
+    "max": 0
+  }
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.664492
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "connected": true,
+  "read_access": true,
+  "write_access": true,
+  "timestamp": 1753216173.508627,
+  "status": 0,
+  "severity": 0,
+  "precision": null,
+  "setpoint_timestamp": null,
+  "setpoint_status": null,
+  "setpoint_severity": null,
+  "lower_ctrl_limit": 0,
+  "upper_ctrl_limit": 0,
+  "units": "",
+  "enum_strs": null,
+  "setpoint_precision": null,
+  "sub_type": "meta",
+  "obj": "13SIM1:cam1:NumImages_RBV",
+  "pv": "13SIM1:cam1:NumImages_RBV"
+}
+==================================================
+
+
+=== PROCESSING META UPDATE ===
+Timestamp: 2025-07-22T14:00:42.665169
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:ColorMode",
+  "update": {
+    "connected": true,
+    "read_access": true,
+    "write_access": true,
+    "timestamp": 1753216173.493671,
+    "status": 0,
+    "severity": 0,
+    "precision": null,
+    "setpoint_timestamp": null,
+    "setpoint_status": null,
+    "setpoint_severity": null,
+    "lower_ctrl_limit": null,
+    "upper_ctrl_limit": null,
+    "units": null,
+    "enum_strs": [
+      "Mono",
+      "RGB1",
+      "RGB2",
+      "RGB3"
+    ],
+    "setpoint_precision": null,
+    "sub_type": "meta",
+    "obj": "13SIM1:cam1:ColorMode",
+    "pv": "13SIM1:cam1:ColorMode",
+    "min": null,
+    "max": null
+  }
+}
+==================================================
+
+
+=== PROCESSING META UPDATE ===
+Timestamp: 2025-07-22T14:00:42.666711
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:NumImages_RBV",
+  "update": {
+    "connected": true,
+    "read_access": true,
+    "write_access": true,
+    "timestamp": 1753216173.508627,
+    "status": 0,
+    "severity": 0,
+    "precision": null,
+    "setpoint_timestamp": null,
+    "setpoint_status": null,
+    "setpoint_severity": null,
+    "lower_ctrl_limit": 0,
+    "upper_ctrl_limit": 0,
+    "units": "",
+    "enum_strs": null,
+    "setpoint_precision": null,
+    "sub_type": "meta",
+    "obj": "13SIM1:cam1:NumImages_RBV",
+    "pv": "13SIM1:cam1:NumImages_RBV",
+    "min": 0,
+    "max": 0
+  }
+}
+==================================================
+
+
+=== PROCESSING META UPDATE ===
+Timestamp: 2025-07-22T14:00:42.667127
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:MaxSizeX_RBV",
+  "update": {
+    "connected": true,
+    "read_access": true,
+    "write_access": true,
+    "timestamp": 1753216173.507349,
+    "status": 0,
+    "severity": 0,
+    "precision": null,
+    "setpoint_timestamp": null,
+    "setpoint_status": null,
+    "setpoint_severity": null,
+    "lower_ctrl_limit": 0,
+    "upper_ctrl_limit": 0,
+    "units": "",
+    "enum_strs": null,
+    "setpoint_precision": null,
+    "sub_type": "meta",
+    "obj": "13SIM1:cam1:MaxSizeX_RBV",
+    "pv": "13SIM1:cam1:MaxSizeX_RBV",
+    "min": 0,
+    "max": 0
+  }
+}
+==================================================
+
+
+=== PROCESSING META UPDATE ===
+Timestamp: 2025-07-22T14:00:42.669238
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:BinX",
+  "update": {
+    "connected": true,
+    "read_access": true,
+    "write_access": true,
+    "timestamp": 1753216173.488201,
+    "status": 0,
+    "severity": 0,
+    "precision": null,
+    "setpoint_timestamp": null,
+    "setpoint_status": null,
+    "setpoint_severity": null,
+    "lower_ctrl_limit": 0,
+    "upper_ctrl_limit": 0,
+    "units": "",
+    "enum_strs": null,
+    "setpoint_precision": null,
+    "sub_type": "meta",
+    "obj": "13SIM1:cam1:BinX",
+    "pv": "13SIM1:cam1:BinX",
+    "min": 0,
+    "max": 0
+  }
+}
+==================================================
+
+
+=== PROCESSING META UPDATE ===
+Timestamp: 2025-07-22T14:00:42.670780
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:DataType",
+  "update": {
+    "connected": true,
+    "read_access": true,
+    "write_access": true,
+    "timestamp": 1753216173.493669,
+    "status": 0,
+    "severity": 0,
+    "precision": null,
+    "setpoint_timestamp": null,
+    "setpoint_status": null,
+    "setpoint_severity": null,
+    "lower_ctrl_limit": null,
+    "upper_ctrl_limit": null,
+    "units": null,
+    "enum_strs": [
+      "Int8",
+      "UInt8",
+      "Int16",
+      "UInt16",
+      "Int32",
+      "UInt32",
+      "Int64",
+      "UInt64",
+      "Float32",
+      "Float64"
+    ],
+    "setpoint_precision": null,
+    "sub_type": "meta",
+    "obj": "13SIM1:cam1:DataType",
+    "pv": "13SIM1:cam1:DataType",
+    "min": null,
+    "max": null
+  }
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.672032
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "connected": true,
+  "read_access": true,
+  "write_access": true,
+  "timestamp": 1753216173.487345,
+  "status": 7,
+  "severity": 1,
+  "precision": null,
+  "setpoint_timestamp": null,
+  "setpoint_status": null,
+  "setpoint_severity": null,
+  "lower_ctrl_limit": null,
+  "upper_ctrl_limit": null,
+  "units": null,
+  "enum_strs": [
+    "Disable",
+    "Enable"
+  ],
+  "setpoint_precision": null,
+  "sub_type": "meta",
+  "obj": "13SIM1:cam1:ArrayCallbacks",
+  "pv": "13SIM1:cam1:ArrayCallbacks"
+}
+==================================================
+
+
+=== PROCESSING META UPDATE ===
+Timestamp: 2025-07-22T14:00:42.673605
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:ArrayCallbacks",
+  "update": {
+    "connected": true,
+    "read_access": true,
+    "write_access": true,
+    "timestamp": 1753216173.487345,
+    "status": 7,
+    "severity": 1,
+    "precision": null,
+    "setpoint_timestamp": null,
+    "setpoint_status": null,
+    "setpoint_severity": null,
+    "lower_ctrl_limit": null,
+    "upper_ctrl_limit": null,
+    "units": null,
+    "enum_strs": [
+      "Disable",
+      "Enable"
+    ],
+    "setpoint_precision": null,
+    "sub_type": "meta",
+    "obj": "13SIM1:cam1:ArrayCallbacks",
+    "pv": "13SIM1:cam1:ArrayCallbacks",
+    "min": null,
+    "max": null
+  }
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.674660
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:AcquireTime",
+  "value": 3.01,
+  "timestamp": 1753216173.486881,
+  "connected": true,
+  "read_access": true,
+  "write_access": true
+}
+==================================================
+
+
+=== PROCESSING META UPDATE ===
+Timestamp: 2025-07-22T14:00:42.674276
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:BinX_RBV",
+  "update": {
+    "connected": true,
+    "read_access": true,
+    "write_access": true,
+    "timestamp": 1753216173.508325,
+    "status": 0,
+    "severity": 0,
+    "precision": null,
+    "setpoint_timestamp": null,
+    "setpoint_status": null,
+    "setpoint_severity": null,
+    "lower_ctrl_limit": 0,
+    "upper_ctrl_limit": 0,
+    "units": "",
+    "enum_strs": null,
+    "setpoint_precision": null,
+    "sub_type": "meta",
+    "obj": "13SIM1:cam1:BinX_RBV",
+    "pv": "13SIM1:cam1:BinX_RBV",
+    "min": 0,
+    "max": 0
+  }
+}
+==================================================
+
+
+=== PROCESSING META UPDATE ===
+Timestamp: 2025-07-22T14:00:42.679251
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:PoolFreeBuffers",
+  "update": {
+    "connected": true,
+    "read_access": true,
+    "write_access": true,
+    "timestamp": 631152000,
+    "status": 17,
+    "severity": 3,
+    "precision": null,
+    "setpoint_timestamp": null,
+    "setpoint_status": null,
+    "setpoint_severity": null,
+    "lower_ctrl_limit": 0,
+    "upper_ctrl_limit": 0,
+    "units": "",
+    "enum_strs": null,
+    "setpoint_precision": null,
+    "sub_type": "meta",
+    "obj": "13SIM1:cam1:PoolFreeBuffers",
+    "pv": "13SIM1:cam1:PoolFreeBuffers",
+    "min": 0,
+    "max": 0
+  }
+}
+==================================================
+
+
+=== PROCESSING META UPDATE ===
+Timestamp: 2025-07-22T14:00:42.679991
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:AcquireTime_RBV",
+  "update": {
+    "connected": true,
+    "read_access": true,
+    "write_access": true,
+    "timestamp": 1753216173.50858,
+    "status": 0,
+    "severity": 0,
+    "precision": 3,
+    "setpoint_timestamp": null,
+    "setpoint_status": null,
+    "setpoint_severity": null,
+    "lower_ctrl_limit": 0,
+    "upper_ctrl_limit": 0,
+    "units": "",
+    "enum_strs": null,
+    "setpoint_precision": null,
+    "sub_type": "meta",
+    "obj": "13SIM1:cam1:AcquireTime_RBV",
+    "pv": "13SIM1:cam1:AcquireTime_RBV",
+    "min": 0,
+    "max": 0
+  }
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.681006
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "connected": true,
+  "read_access": true,
+  "write_access": true,
+  "timestamp": 1753216173.486885,
+  "status": 0,
+  "severity": 0,
+  "precision": 3,
+  "setpoint_timestamp": null,
+  "setpoint_status": null,
+  "setpoint_severity": null,
+  "lower_ctrl_limit": 0,
+  "upper_ctrl_limit": 0,
+  "units": "",
+  "enum_strs": null,
+  "setpoint_precision": null,
+  "sub_type": "meta",
+  "obj": "13SIM1:cam1:AcquirePeriod",
+  "pv": "13SIM1:cam1:AcquirePeriod"
+}
+==================================================
+
+
+=== PROCESSING META UPDATE ===
+Timestamp: 2025-07-22T14:00:42.681625
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:ReverseY_RBV",
+  "update": {
+    "connected": true,
+    "read_access": true,
+    "write_access": true,
+    "timestamp": 1753216173.508428,
+    "status": 0,
+    "severity": 0,
+    "precision": null,
+    "setpoint_timestamp": null,
+    "setpoint_status": null,
+    "setpoint_severity": null,
+    "lower_ctrl_limit": null,
+    "upper_ctrl_limit": null,
+    "units": null,
+    "enum_strs": [
+      "No",
+      "Yes"
+    ],
+    "setpoint_precision": null,
+    "sub_type": "meta",
+    "obj": "13SIM1:cam1:ReverseY_RBV",
+    "pv": "13SIM1:cam1:ReverseY_RBV",
+    "min": null,
+    "max": null
+  }
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.685549
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "connected": true,
+  "read_access": true,
+  "write_access": true,
+  "timestamp": 1753216173.487349,
+  "status": 0,
+  "severity": 0,
+  "precision": null,
+  "setpoint_timestamp": null,
+  "setpoint_status": null,
+  "setpoint_severity": null,
+  "lower_ctrl_limit": null,
+  "upper_ctrl_limit": null,
+  "units": null,
+  "enum_strs": [
+    "No",
+    "Yes"
+  ],
+  "setpoint_precision": null,
+  "sub_type": "meta",
+  "obj": "13SIM1:cam1:ReverseY",
+  "pv": "13SIM1:cam1:ReverseY"
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.687305
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "connected": true,
+  "read_access": true,
+  "write_access": true,
+  "timestamp": 1753216173.488206,
+  "status": 0,
+  "severity": 0,
+  "precision": null,
+  "setpoint_timestamp": null,
+  "setpoint_status": null,
+  "setpoint_severity": null,
+  "lower_ctrl_limit": 0,
+  "upper_ctrl_limit": 0,
+  "units": "",
+  "enum_strs": null,
+  "setpoint_precision": null,
+  "sub_type": "meta",
+  "obj": "13SIM1:cam1:MinY",
+  "pv": "13SIM1:cam1:MinY"
+}
+==================================================
+
+
+=== PROCESSING META UPDATE ===
+Timestamp: 2025-07-22T14:00:42.689573
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:MinY",
+  "update": {
+    "connected": true,
+    "read_access": true,
+    "write_access": true,
+    "timestamp": 1753216173.488206,
+    "status": 0,
+    "severity": 0,
+    "precision": null,
+    "setpoint_timestamp": null,
+    "setpoint_status": null,
+    "setpoint_severity": null,
+    "lower_ctrl_limit": 0,
+    "upper_ctrl_limit": 0,
+    "units": "",
+    "enum_strs": null,
+    "setpoint_precision": null,
+    "sub_type": "meta",
+    "obj": "13SIM1:cam1:MinY",
+    "pv": "13SIM1:cam1:MinY",
+    "min": 0,
+    "max": 0
+  }
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.687637
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:ArraySizeX_RBV",
+  "value": 1024,
+  "timestamp": 1753216173.50645,
+  "connected": true,
+  "read_access": true,
+  "write_access": true
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.688174
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "connected": true,
+  "read_access": true,
+  "write_access": true,
+  "timestamp": 1753216173.50645,
+  "status": 0,
+  "severity": 0,
+  "precision": null,
+  "setpoint_timestamp": null,
+  "setpoint_status": null,
+  "setpoint_severity": null,
+  "lower_ctrl_limit": 0,
+  "upper_ctrl_limit": 0,
+  "units": "",
+  "enum_strs": null,
+  "setpoint_precision": null,
+  "sub_type": "meta",
+  "obj": "13SIM1:cam1:ArraySizeX_RBV",
+  "pv": "13SIM1:cam1:ArraySizeX_RBV"
+}
+==================================================
+
+
+=== PROCESSING META UPDATE ===
+Timestamp: 2025-07-22T14:00:42.693939
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:ImageMode_RBV",
+  "update": {
+    "connected": true,
+    "read_access": true,
+    "write_access": true,
+    "timestamp": 1753216173.508549,
+    "status": 0,
+    "severity": 0,
+    "precision": null,
+    "setpoint_timestamp": null,
+    "setpoint_status": null,
+    "setpoint_severity": null,
+    "lower_ctrl_limit": null,
+    "upper_ctrl_limit": null,
+    "units": null,
+    "enum_strs": [
+      "Single",
+      "Multiple",
+      "Continuous"
+    ],
+    "setpoint_precision": null,
+    "sub_type": "meta",
+    "obj": "13SIM1:cam1:ImageMode_RBV",
+    "pv": "13SIM1:cam1:ImageMode_RBV",
+    "min": null,
+    "max": null
+  }
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.693565
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "connected": true,
+  "read_access": true,
+  "write_access": true,
+  "timestamp": 1753216173.506504,
+  "status": 0,
+  "severity": 0,
+  "precision": null,
+  "setpoint_timestamp": null,
+  "setpoint_status": null,
+  "setpoint_severity": null,
+  "lower_ctrl_limit": 0,
+  "upper_ctrl_limit": 0,
+  "units": "",
+  "enum_strs": null,
+  "setpoint_precision": null,
+  "sub_type": "meta",
+  "obj": "13SIM1:cam1:ArraySizeY_RBV",
+  "pv": "13SIM1:cam1:ArraySizeY_RBV"
+}
+==================================================
+
+
+=== PROCESSING META UPDATE ===
+Timestamp: 2025-07-22T14:00:42.694547
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:ArrayCallbacks_RBV",
+  "update": {
+    "connected": true,
+    "read_access": true,
+    "write_access": true,
+    "timestamp": 1753216173.508971,
+    "status": 7,
+    "severity": 1,
+    "precision": null,
+    "setpoint_timestamp": null,
+    "setpoint_status": null,
+    "setpoint_severity": null,
+    "lower_ctrl_limit": null,
+    "upper_ctrl_limit": null,
+    "units": null,
+    "enum_strs": [
+      "Disable",
+      "Enable"
+    ],
+    "setpoint_precision": null,
+    "sub_type": "meta",
+    "obj": "13SIM1:cam1:ArrayCallbacks_RBV",
+    "pv": "13SIM1:cam1:ArrayCallbacks_RBV",
+    "min": null,
+    "max": null
+  }
+}
+==================================================
+
+
+=== PROCESSING META UPDATE ===
+Timestamp: 2025-07-22T14:00:42.696935
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:DataType_RBV",
+  "update": {
+    "connected": true,
+    "read_access": true,
+    "write_access": true,
+    "timestamp": 1753216173.508522,
+    "status": 0,
+    "severity": 0,
+    "precision": null,
+    "setpoint_timestamp": null,
+    "setpoint_status": null,
+    "setpoint_severity": null,
+    "lower_ctrl_limit": null,
+    "upper_ctrl_limit": null,
+    "units": null,
+    "enum_strs": [
+      "Int8",
+      "UInt8",
+      "Int16",
+      "UInt16",
+      "Int32",
+      "UInt32",
+      "Int64",
+      "UInt64",
+      "Float32",
+      "Float64"
+    ],
+    "setpoint_precision": null,
+    "sub_type": "meta",
+    "obj": "13SIM1:cam1:DataType_RBV",
+    "pv": "13SIM1:cam1:DataType_RBV",
+    "min": null,
+    "max": null
+  }
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.698525
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:NumImages",
+  "value": 434,
+  "timestamp": 1753216173.48821,
+  "connected": true,
+  "read_access": true,
+  "write_access": true
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.699485
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "connected": true,
+  "read_access": true,
+  "write_access": true,
+  "timestamp": 1753216173.487347,
+  "status": 0,
+  "severity": 0,
+  "precision": null,
+  "setpoint_timestamp": null,
+  "setpoint_status": null,
+  "setpoint_severity": null,
+  "lower_ctrl_limit": null,
+  "upper_ctrl_limit": null,
+  "units": null,
+  "enum_strs": [
+    "No",
+    "Yes"
+  ],
+  "setpoint_precision": null,
+  "sub_type": "meta",
+  "obj": "13SIM1:cam1:ReverseX",
+  "pv": "13SIM1:cam1:ReverseX"
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.700308
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:NumImages_RBV",
+  "value": 434,
+  "timestamp": 1753216173.508627,
+  "connected": true,
+  "read_access": true,
+  "write_access": true
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.702509
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "connected": true,
+  "read_access": true,
+  "write_access": true,
+  "timestamp": 1753216173.488208,
+  "status": 0,
+  "severity": 0,
+  "precision": null,
+  "setpoint_timestamp": null,
+  "setpoint_status": null,
+  "setpoint_severity": null,
+  "lower_ctrl_limit": 0,
+  "upper_ctrl_limit": 0,
+  "units": "",
+  "enum_strs": null,
+  "setpoint_precision": null,
+  "sub_type": "meta",
+  "obj": "13SIM1:cam1:SizeY",
+  "pv": "13SIM1:cam1:SizeY"
+}
+==================================================
+
+
+=== PROCESSING META UPDATE ===
+Timestamp: 2025-07-22T14:00:42.705087
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:ArraySizeY_RBV",
+  "update": {
+    "connected": true,
+    "read_access": true,
+    "write_access": true,
+    "timestamp": 1753216173.506504,
+    "status": 0,
+    "severity": 0,
+    "precision": null,
+    "setpoint_timestamp": null,
+    "setpoint_status": null,
+    "setpoint_severity": null,
+    "lower_ctrl_limit": 0,
+    "upper_ctrl_limit": 0,
+    "units": "",
+    "enum_strs": null,
+    "setpoint_precision": null,
+    "sub_type": "meta",
+    "obj": "13SIM1:cam1:ArraySizeY_RBV",
+    "pv": "13SIM1:cam1:ArraySizeY_RBV",
+    "min": 0,
+    "max": 0
+  }
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.706384
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "connected": true,
+  "read_access": true,
+  "write_access": true,
+  "timestamp": 1753216173.508549,
+  "status": 0,
+  "severity": 0,
+  "precision": null,
+  "setpoint_timestamp": null,
+  "setpoint_status": null,
+  "setpoint_severity": null,
+  "lower_ctrl_limit": null,
+  "upper_ctrl_limit": null,
+  "units": null,
+  "enum_strs": [
+    "Single",
+    "Multiple",
+    "Continuous"
+  ],
+  "setpoint_precision": null,
+  "sub_type": "meta",
+  "obj": "13SIM1:cam1:ImageMode_RBV",
+  "pv": "13SIM1:cam1:ImageMode_RBV"
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.707331
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "connected": true,
+  "read_access": true,
+  "write_access": true,
+  "timestamp": 1753216173.508971,
+  "status": 7,
+  "severity": 1,
+  "precision": null,
+  "setpoint_timestamp": null,
+  "setpoint_status": null,
+  "setpoint_severity": null,
+  "lower_ctrl_limit": null,
+  "upper_ctrl_limit": null,
+  "units": null,
+  "enum_strs": [
+    "Disable",
+    "Enable"
+  ],
+  "setpoint_precision": null,
+  "sub_type": "meta",
+  "obj": "13SIM1:cam1:ArrayCallbacks_RBV",
+  "pv": "13SIM1:cam1:ArrayCallbacks_RBV"
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.708524
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "connected": true,
+  "read_access": true,
+  "write_access": true,
+  "timestamp": 1753216173.487338,
+  "status": 0,
+  "severity": 0,
+  "precision": null,
+  "setpoint_timestamp": null,
+  "setpoint_status": null,
+  "setpoint_severity": null,
+  "lower_ctrl_limit": null,
+  "upper_ctrl_limit": null,
+  "units": null,
+  "enum_strs": [
+    "No",
+    "Yes"
+  ],
+  "setpoint_precision": null,
+  "sub_type": "meta",
+  "obj": "13SIM1:cam1:WaitForPlugins",
+  "pv": "13SIM1:cam1:WaitForPlugins"
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.711643
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:NumImagesCounter_RBV",
+  "value": 0,
+  "timestamp": 1753216173.507513,
+  "connected": true,
+  "read_access": true,
+  "write_access": true
+}
+==================================================
+
+
+=== PROCESSING META UPDATE ===
+Timestamp: 2025-07-22T14:00:42.713482
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:ArraySizeX_RBV",
+  "update": {
+    "connected": true,
+    "read_access": true,
+    "write_access": true,
+    "timestamp": 1753216173.50645,
+    "status": 0,
+    "severity": 0,
+    "precision": null,
+    "setpoint_timestamp": null,
+    "setpoint_status": null,
+    "setpoint_severity": null,
+    "lower_ctrl_limit": 0,
+    "upper_ctrl_limit": 0,
+    "units": "",
+    "enum_strs": null,
+    "setpoint_precision": null,
+    "sub_type": "meta",
+    "obj": "13SIM1:cam1:ArraySizeX_RBV",
+    "pv": "13SIM1:cam1:ArraySizeX_RBV",
+    "min": 0,
+    "max": 0
+  }
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.714567
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:Gain",
+  "value": 832.00554564565,
+  "timestamp": 1753216173.486886,
+  "connected": true,
+  "read_access": true,
+  "write_access": true
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.715252
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "connected": true,
+  "read_access": true,
+  "write_access": true,
+  "timestamp": 1753216173.508981,
+  "status": 0,
+  "severity": 0,
+  "precision": null,
+  "setpoint_timestamp": null,
+  "setpoint_status": null,
+  "setpoint_severity": null,
+  "lower_ctrl_limit": 0,
+  "upper_ctrl_limit": 0,
+  "units": "",
+  "enum_strs": null,
+  "setpoint_precision": null,
+  "sub_type": "meta",
+  "obj": "13SIM1:cam1:NumExposures_RBV",
+  "pv": "13SIM1:cam1:NumExposures_RBV"
+}
+==================================================
+
+
+=== PROCESSING META UPDATE ===
+Timestamp: 2025-07-22T14:00:42.716803
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:SizeY",
+  "update": {
+    "connected": true,
+    "read_access": true,
+    "write_access": true,
+    "timestamp": 1753216173.488208,
+    "status": 0,
+    "severity": 0,
+    "precision": null,
+    "setpoint_timestamp": null,
+    "setpoint_status": null,
+    "setpoint_severity": null,
+    "lower_ctrl_limit": 0,
+    "upper_ctrl_limit": 0,
+    "units": "",
+    "enum_strs": null,
+    "setpoint_precision": null,
+    "sub_type": "meta",
+    "obj": "13SIM1:cam1:SizeY",
+    "pv": "13SIM1:cam1:SizeY",
+    "min": 0,
+    "max": 0
+  }
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.720176
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "connected": true,
+  "read_access": true,
+  "write_access": true,
+  "timestamp": 631152000,
+  "status": 17,
+  "severity": 3,
+  "precision": null,
+  "setpoint_timestamp": null,
+  "setpoint_status": null,
+  "setpoint_severity": null,
+  "lower_ctrl_limit": null,
+  "upper_ctrl_limit": null,
+  "units": null,
+  "enum_strs": [
+    "",
+    ""
+  ],
+  "setpoint_precision": null,
+  "sub_type": "meta",
+  "obj": "13SIM1:cam1:EmptyFreeList",
+  "pv": "13SIM1:cam1:EmptyFreeList"
+}
+==================================================
+
+
+=== PROCESSING META UPDATE ===
+Timestamp: 2025-07-22T14:00:42.720820
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:EmptyFreeList",
+  "update": {
+    "connected": true,
+    "read_access": true,
+    "write_access": true,
+    "timestamp": 631152000,
+    "status": 17,
+    "severity": 3,
+    "precision": null,
+    "setpoint_timestamp": null,
+    "setpoint_status": null,
+    "setpoint_severity": null,
+    "lower_ctrl_limit": null,
+    "upper_ctrl_limit": null,
+    "units": null,
+    "enum_strs": [
+      "",
+      ""
+    ],
+    "setpoint_precision": null,
+    "sub_type": "meta",
+    "obj": "13SIM1:cam1:EmptyFreeList",
+    "pv": "13SIM1:cam1:EmptyFreeList",
+    "min": null,
+    "max": null
+  }
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.722809
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "connected": true,
+  "read_access": true,
+  "write_access": true,
+  "timestamp": 1753216173.48821,
+  "status": 0,
+  "severity": 0,
+  "precision": null,
+  "setpoint_timestamp": null,
+  "setpoint_status": null,
+  "setpoint_severity": null,
+  "lower_ctrl_limit": 0,
+  "upper_ctrl_limit": 0,
+  "units": "",
+  "enum_strs": null,
+  "setpoint_precision": null,
+  "sub_type": "meta",
+  "obj": "13SIM1:cam1:NumImages",
+  "pv": "13SIM1:cam1:NumImages"
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.724543
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "connected": true,
+  "read_access": true,
+  "write_access": true,
+  "timestamp": 1753216173.508884,
+  "status": 0,
+  "severity": 0,
+  "precision": 3,
+  "setpoint_timestamp": null,
+  "setpoint_status": null,
+  "setpoint_severity": null,
+  "lower_ctrl_limit": 0,
+  "upper_ctrl_limit": 0,
+  "units": "",
+  "enum_strs": null,
+  "setpoint_precision": null,
+  "sub_type": "meta",
+  "obj": "13SIM1:cam1:Gain_RBV",
+  "pv": "13SIM1:cam1:Gain_RBV"
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.724135
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "connected": true,
+  "read_access": true,
+  "write_access": true,
+  "timestamp": 1753216173.508464,
+  "status": 0,
+  "severity": 0,
+  "precision": null,
+  "setpoint_timestamp": null,
+  "setpoint_status": null,
+  "setpoint_severity": null,
+  "lower_ctrl_limit": 0,
+  "upper_ctrl_limit": 0,
+  "units": "",
+  "enum_strs": null,
+  "setpoint_precision": null,
+  "sub_type": "meta",
+  "obj": "13SIM1:cam1:SizeX_RBV",
+  "pv": "13SIM1:cam1:SizeX_RBV"
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.728175
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:ReverseX_RBV",
+  "value": 1,
+  "timestamp": 1753216173.508393,
+  "connected": true,
+  "read_access": true,
+  "write_access": true
+}
+==================================================
+
+
+=== PROCESSING META UPDATE ===
+Timestamp: 2025-07-22T14:00:42.729183
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:ImageMode",
+  "update": {
+    "connected": true,
+    "read_access": true,
+    "write_access": true,
+    "timestamp": 1753216173.493674,
+    "status": 0,
+    "severity": 0,
+    "precision": null,
+    "setpoint_timestamp": null,
+    "setpoint_status": null,
+    "setpoint_severity": null,
+    "lower_ctrl_limit": null,
+    "upper_ctrl_limit": null,
+    "units": null,
+    "enum_strs": [
+      "Single",
+      "Multiple",
+      "Continuous"
+    ],
+    "setpoint_precision": null,
+    "sub_type": "meta",
+    "obj": "13SIM1:cam1:ImageMode",
+    "pv": "13SIM1:cam1:ImageMode",
+    "min": null,
+    "max": null
+  }
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.728595
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "connected": true,
+  "read_access": true,
+  "write_access": true,
+  "timestamp": 631152000,
+  "status": 17,
+  "severity": 3,
+  "precision": null,
+  "setpoint_timestamp": null,
+  "setpoint_status": null,
+  "setpoint_severity": null,
+  "lower_ctrl_limit": 0,
+  "upper_ctrl_limit": 0,
+  "units": "",
+  "enum_strs": null,
+  "setpoint_precision": null,
+  "sub_type": "meta",
+  "obj": "13SIM1:cam1:PoolFreeBuffers",
+  "pv": "13SIM1:cam1:PoolFreeBuffers"
+}
+==================================================
+
+
+=== PROCESSING META UPDATE ===
+Timestamp: 2025-07-22T14:00:42.730184
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:WaitForPlugins",
+  "update": {
+    "connected": true,
+    "read_access": true,
+    "write_access": true,
+    "timestamp": 1753216173.487338,
+    "status": 0,
+    "severity": 0,
+    "precision": null,
+    "setpoint_timestamp": null,
+    "setpoint_status": null,
+    "setpoint_severity": null,
+    "lower_ctrl_limit": null,
+    "upper_ctrl_limit": null,
+    "units": null,
+    "enum_strs": [
+      "No",
+      "Yes"
+    ],
+    "setpoint_precision": null,
+    "sub_type": "meta",
+    "obj": "13SIM1:cam1:WaitForPlugins",
+    "pv": "13SIM1:cam1:WaitForPlugins",
+    "min": null,
+    "max": null
+  }
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.733600
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:AcquireTime_RBV",
+  "value": 3.01,
+  "timestamp": 1753216173.50858,
+  "connected": true,
+  "read_access": true,
+  "write_access": true
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.734249
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "connected": true,
+  "read_access": true,
+  "write_access": true,
+  "timestamp": 1753216173.50858,
+  "status": 0,
+  "severity": 0,
+  "precision": 3,
+  "setpoint_timestamp": null,
+  "setpoint_status": null,
+  "setpoint_severity": null,
+  "lower_ctrl_limit": 0,
+  "upper_ctrl_limit": 0,
+  "units": "",
+  "enum_strs": null,
+  "setpoint_precision": null,
+  "sub_type": "meta",
+  "obj": "13SIM1:cam1:AcquireTime_RBV",
+  "pv": "13SIM1:cam1:AcquireTime_RBV"
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.735540
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "connected": true,
+  "read_access": true,
+  "write_access": true,
+  "timestamp": 1753216173.486741,
+  "status": 0,
+  "severity": 0,
+  "precision": 1,
+  "setpoint_timestamp": null,
+  "setpoint_status": null,
+  "setpoint_severity": null,
+  "lower_ctrl_limit": 0,
+  "upper_ctrl_limit": 0,
+  "units": "MB",
+  "enum_strs": null,
+  "setpoint_precision": null,
+  "sub_type": "meta",
+  "obj": "13SIM1:cam1:PoolMaxMem",
+  "pv": "13SIM1:cam1:PoolMaxMem"
+}
+==================================================
+
+
+=== INCOMING WEBSOCKET MESSAGE ===
+Timestamp: 2025-07-22T14:00:42.737258
+Session ID: session_1753218041636_2v1t17xpc
+Data:
+{
+  "pv": "13SIM1:cam1:PoolMaxMem",
+  "value": 0,
+  "timestamp": 1753216173.486741,
+  "connected": true,
+  "read_access": true,
+  "write_access": true
+}
+==================================================
+
+
+=== COMPLETE DEVICE NAMES LIST (AUTO-FINALIZED) ===
+Timestamp: 2025-07-22T14:00:44.857318
+Total entries: 80
+Complete List:
+[
+  "13SIM1:cam1:AsynIO.CNCT",
+  "13SIM1:cam1:AsynIO.CNCT",
+  "13SIM1:cam1:Manufacturer_RBV",
+  "13SIM1:cam1:PortName_RBV",
+  "13SIM1:cam1:Model_RBV",
+  "13SIM1:cam1:SerialNumber_RBV",
+  "13SIM1:cam1:FirmwareVersion_RBV",
+  "13SIM1:cam1:SDKVersion_RBV",
+  "13SIM1:cam1:DriverVersion_RBV",
+  "13SIM1:cam1:ADCoreVersion_RBV",
+  "13SIM1:cam1:BinX",
+  "13SIM1:cam1:BinY",
+  "13SIM1:cam1:BinX_RBV",
+  "13SIM1:cam1:BinY_RBV",
+  "13SIM1:cam1:MinX_RBV",
+  "13SIM1:cam1:MinX",
+  "13SIM1:cam1:MinY",
+  "13SIM1:cam1:MinY_RBV",
+  "13SIM1:cam1:SizeX",
+  "13SIM1:cam1:SizeY",
+  "13SIM1:cam1:SizeX_RBV",
+  "13SIM1:cam1:SizeY_RBV",
+  "13SIM1:cam1:MaxSizeX_RBV",
+  "13SIM1:cam1:MaxSizeY_RBV",
+  "13SIM1:cam1:ArraySize_RBV",
+  "13SIM1:cam1:Gain_RBV",
+  "13SIM1:cam1:Gain",
+  "13SIM1:cam1:DataType",
+  "13SIM1:cam1:DataType_RBV",
+  "13SIM1:cam1:ReverseX_RBV",
+  "13SIM1:cam1:ReverseY_RBV",
+  "13SIM1:cam1:ReverseX",
+  "13SIM1:cam1:ReverseY",
+  "13SIM1:cam1:ColorMode",
+  "13SIM1:cam1:ColorMode_RBV",
+  "13SIM1:cam1:ArraySizeX_RBV",
+  "13SIM1:cam1:ArraySizeY_RBV",
+  "13SIM1:cam1:ShutterMode",
+  "13SIM1:cam1:ShutterControl",
+  "13SIM1:cam1:ShutterControl",
+  "13SIM1:cam1:ShutterStatus_RBV",
+  "13SIM1:cam1:ShutterOpenDelay",
+  "13SIM1:cam1:ShutterCloseDelay",
+  "13SIM1:cam1:ShutterStatusEPICS_RBV",
+  "13SIM1:cam1:PoolUsedBuffers",
+  "13SIM1:cam1:PoolAllocBuffers",
+  "13SIM1:cam1:PoolFreeBuffers",
+  "13SIM1:cam1:PoolUsedMem.SCAN",
+  "13SIM1:cam1:PoolMaxMem",
+  "13SIM1:cam1:PoolUsedMem",
+  "13SIM1:cam1:EmptyFreeList",
+  "13SIM1:cam1:AcquireTime",
+  "13SIM1:cam1:AcquireTime_RBV",
+  "13SIM1:cam1:AcquirePeriod",
+  "13SIM1:cam1:AcquirePeriod_RBV",
+  "13SIM1:cam1:NumImages",
+  "13SIM1:cam1:NumImages_RBV",
+  "13SIM1:cam1:NumImagesCounter_RBV",
+  "13SIM1:cam1:NumExposures",
+  "13SIM1:cam1:NumExposures_RBV",
+  "13SIM1:cam1:Acquire",
+  "13SIM1:cam1:Acquire",
+  "13SIM1:cam1:ImageMode",
+  "13SIM1:cam1:ImageMode_RBV",
+  "13SIM1:cam1:DetectorState_RBV",
+  "13SIM1:cam1:TimeRemaining_RBV",
+  "13SIM1:cam1:ArrayCounter",
+  "13SIM1:cam1:ArrayCounter_RBV",
+  "13SIM1:cam1:ArrayRate_RBV",
+  "13SIM1:cam1:ArrayCallbacks",
+  "13SIM1:cam1:ArrayCallbacks_RBV",
+  "13SIM1:cam1:StatusMessage_RBV",
+  "13SIM1:cam1:NumQueuedArrays",
+  "13SIM1:cam1:TriggerMode",
+  "13SIM1:cam1:TriggerMode_RBV",
+  "13SIM1:cam1:WaitForPlugins",
+  "13SIM1:cam1:AcquireBusy",
+  "13SIM1:cam1:NDAttributesFile",
+  "13SIM1:cam1:NDAttributesMacros",
+  "13SIM1:cam1:NDAttributesStatus"
+]
+==================================================
+
+
+=== COMPLETE DEVICE NAMES LIST (AUTO-FINALIZED) ===
+Timestamp: 2025-07-22T14:00:44.863480
+Total entries: 80
+Complete List:
+[
+  "13SIM1:cam1:AsynIO.CNCT",
+  "13SIM1:cam1:AsynIO.CNCT",
+  "13SIM1:cam1:Manufacturer_RBV",
+  "13SIM1:cam1:PortName_RBV",
+  "13SIM1:cam1:Model_RBV",
+  "13SIM1:cam1:SerialNumber_RBV",
+  "13SIM1:cam1:FirmwareVersion_RBV",
+  "13SIM1:cam1:SDKVersion_RBV",
+  "13SIM1:cam1:DriverVersion_RBV",
+  "13SIM1:cam1:ADCoreVersion_RBV",
+  "13SIM1:cam1:BinX",
+  "13SIM1:cam1:BinY",
+  "13SIM1:cam1:BinX_RBV",
+  "13SIM1:cam1:BinY_RBV",
+  "13SIM1:cam1:MinX_RBV",
+  "13SIM1:cam1:MinX",
+  "13SIM1:cam1:MinY",
+  "13SIM1:cam1:MinY_RBV",
+  "13SIM1:cam1:SizeX",
+  "13SIM1:cam1:SizeY",
+  "13SIM1:cam1:SizeX_RBV",
+  "13SIM1:cam1:SizeY_RBV",
+  "13SIM1:cam1:MaxSizeX_RBV",
+  "13SIM1:cam1:MaxSizeY_RBV",
+  "13SIM1:cam1:ArraySize_RBV",
+  "13SIM1:cam1:Gain_RBV",
+  "13SIM1:cam1:Gain",
+  "13SIM1:cam1:DataType",
+  "13SIM1:cam1:DataType_RBV",
+  "13SIM1:cam1:ReverseX_RBV",
+  "13SIM1:cam1:ReverseY_RBV",
+  "13SIM1:cam1:ReverseX",
+  "13SIM1:cam1:ReverseY",
+  "13SIM1:cam1:ColorMode",
+  "13SIM1:cam1:ColorMode_RBV",
+  "13SIM1:cam1:ArraySizeX_RBV",
+  "13SIM1:cam1:ArraySizeY_RBV",
+  "13SIM1:cam1:ShutterMode",
+  "13SIM1:cam1:ShutterControl",
+  "13SIM1:cam1:ShutterControl",
+  "13SIM1:cam1:ShutterStatus_RBV",
+  "13SIM1:cam1:ShutterOpenDelay",
+  "13SIM1:cam1:ShutterCloseDelay",
+  "13SIM1:cam1:ShutterStatusEPICS_RBV",
+  "13SIM1:cam1:PoolUsedBuffers",
+  "13SIM1:cam1:PoolAllocBuffers",
+  "13SIM1:cam1:PoolFreeBuffers",
+  "13SIM1:cam1:PoolUsedMem.SCAN",
+  "13SIM1:cam1:PoolMaxMem",
+  "13SIM1:cam1:PoolUsedMem",
+  "13SIM1:cam1:EmptyFreeList",
+  "13SIM1:cam1:AcquireTime",
+  "13SIM1:cam1:AcquireTime_RBV",
+  "13SIM1:cam1:AcquirePeriod",
+  "13SIM1:cam1:AcquirePeriod_RBV",
+  "13SIM1:cam1:NumImages",
+  "13SIM1:cam1:NumImages_RBV",
+  "13SIM1:cam1:NumImagesCounter_RBV",
+  "13SIM1:cam1:NumExposures",
+  "13SIM1:cam1:NumExposures_RBV",
+  "13SIM1:cam1:Acquire",
+  "13SIM1:cam1:Acquire",
+  "13SIM1:cam1:ImageMode",
+  "13SIM1:cam1:ImageMode_RBV",
+  "13SIM1:cam1:DetectorState_RBV",
+  "13SIM1:cam1:TimeRemaining_RBV",
+  "13SIM1:cam1:ArrayCounter",
+  "13SIM1:cam1:ArrayCounter_RBV",
+  "13SIM1:cam1:ArrayRate_RBV",
+  "13SIM1:cam1:ArrayCallbacks",
+  "13SIM1:cam1:ArrayCallbacks_RBV",
+  "13SIM1:cam1:StatusMessage_RBV",
+  "13SIM1:cam1:NumQueuedArrays",
+  "13SIM1:cam1:TriggerMode",
+  "13SIM1:cam1:TriggerMode_RBV",
+  "13SIM1:cam1:WaitForPlugins",
+  "13SIM1:cam1:AcquireBusy",
+  "13SIM1:cam1:NDAttributesFile",
+  "13SIM1:cam1:NDAttributesMacros",
+  "13SIM1:cam1:NDAttributesStatus"
+]
+==================================================
+
