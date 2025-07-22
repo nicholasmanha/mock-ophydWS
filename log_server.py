@@ -45,43 +45,32 @@ def finalize_device_names_delayed():
     
     timestamp = datetime.now().isoformat()
     
-    # Create the device names list section
-    deviceNames_log_entry = f"""
-=== COMPLETE DEVICE NAMES LIST (AUTO-FINALIZED) ===
-Timestamp: {timestamp}
-Total entries: {len(deviceNamesList)}
-Complete List:
-{json.dumps(deviceNamesList, indent=2)}
+    # Create JSON-friendly output structure
+    output_data = {
+        "deviceNamesList": {
+            "timestamp": timestamp,
+            "totalEntries": len(deviceNamesList),
+            "completeList": deviceNamesList
+        },
+        "deviceMessages": {
+            "timestamp": timestamp,
+            "deviceCount": len(deviceMessages),
+            "messages": deviceMessages
+        }
+    }
+    
+    # Write as formatted JSON to file
+    json_output = json.dumps(output_data, indent=2)
+    
+    log_entry = f"""
+=== COMPLETE DEVICE DATA (AUTO-FINALIZED) - JSON FORMAT ===
+{json_output}
 {'=' * 50}
 
 """
     
-    # Create the device messages section
-    deviceMessages_log_entry = f"""
-=== COMPLETE DEVICE MESSAGES LIST (AUTO-FINALIZED) ===
-Timestamp: {timestamp}
-"""
-    
-    for device_name, messages in deviceMessages.items():
-        deviceMessages_log_entry += f"\n{device_name}:\n"
-        deviceMessages_log_entry += "{\n"
-        for i, message in enumerate(messages):
-            if i > 0:
-                deviceMessages_log_entry += ",\n"
-            deviceMessages_log_entry += f"  {{\n"
-            deviceMessages_log_entry += f"    Timestamp: {message['timestamp']}\n"
-            deviceMessages_log_entry += f"    Session ID: {message['sessionId']}\n"
-            deviceMessages_log_entry += f"    Data:\n"
-            deviceMessages_log_entry += f"    {json.dumps(message['data'], indent=4)}\n"
-            deviceMessages_log_entry += f"  }}"
-        deviceMessages_log_entry += "\n}\n"
-    
-    deviceMessages_log_entry += f"\n{'=' * 50}\n\n"
-    
-    # Write both sections to file
     with open(LOG_FILE, 'a', encoding='utf-8') as f:
-        f.write(deviceNames_log_entry)
-        f.write(deviceMessages_log_entry)
+        f.write(log_entry)
     
     print(f"Auto-finalized deviceNamesList with {len(deviceNamesList)} entries")
     print(f"Auto-finalized deviceMessages with {len(deviceMessages)} device groups")
@@ -202,8 +191,28 @@ def get_device_names():
 
 @app.route('/deviceMessages', methods=['GET'])
 def get_device_messages():
-    """New endpoint to get the current deviceMessages object"""
+    """Endpoint to get the current deviceMessages object"""
     return jsonify({"deviceMessages": deviceMessages, "deviceCount": len(deviceMessages)}), 200
+
+@app.route('/combinedData', methods=['GET'])
+def get_combined_data():
+    """New endpoint to get both deviceNamesList and deviceMessages in JSON format"""
+    timestamp = datetime.now().isoformat()
+    
+    output_data = {
+        "deviceNamesList": {
+            "timestamp": timestamp,
+            "totalEntries": len(deviceNamesList),
+            "completeList": deviceNamesList
+        },
+        "deviceMessages": {
+            "timestamp": timestamp,
+            "deviceCount": len(deviceMessages),
+            "messages": deviceMessages
+        }
+    }
+    
+    return jsonify(output_data), 200
 
 @app.route('/health', methods=['GET'])
 def health_check():
