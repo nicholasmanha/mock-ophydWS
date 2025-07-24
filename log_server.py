@@ -7,7 +7,7 @@ import threading
 
 
 finalize_timer = None
-FINALIZE_DELAY = 3.0  # seconds to wait after last request
+FINALIZE_DELAY = 10.0  # seconds to wait after last request
 
 app = Flask(__name__)
 CORS(app)  # Enable CORS for all routes
@@ -63,9 +63,7 @@ def finalize_device_names_delayed():
     json_output = json.dumps(output_data, indent=2)
     
     log_entry = f"""
-=== COMPLETE DEVICE DATA (AUTO-FINALIZED) - JSON FORMAT ===
 {json_output}
-{'=' * 50}
 
 """
     
@@ -91,15 +89,7 @@ def write_log():
         
         # Format the log entry
         timestamp = datetime.now().isoformat()
-        log_entry = f"""
-=== {data.get('label', 'UNKNOWN')} ===
-Timestamp: {timestamp}
-Session ID: {data.get('sessionId', 'unknown')}
-Data:
-{json.dumps(data.get('data', {}), indent=2)}
-{'=' * 50}
-
-"""
+        
         
         # Store message in deviceMessages object if device name found
         if device_name:
@@ -113,10 +103,18 @@ Data:
             if device_name not in deviceMessages:
                 deviceMessages[device_name] = []
             deviceMessages[device_name].append(message_obj)
-        
-        # Write to file
-        # with open(LOG_FILE, 'a', encoding='utf-8') as f:
-        #     f.write(log_entry)
+#         log_entry = f"""
+# === {data.get('label', 'UNKNOWN')} ===
+# Timestamp: {timestamp}
+# Session ID: {data.get('sessionId', 'unknown')}
+# Data:
+# {json.dumps(data.get('data', {}), indent=2)}
+# {'=' * 50}
+
+# """
+#         # Write to file
+#         with open(LOG_FILE, 'a', encoding='utf-8') as f:
+#             f.write(log_entry)
         
         return jsonify({"status": "success", "message": "Log written successfully"}), 200
         
